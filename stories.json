@@ -1,0 +1,60 @@
+{
+  "version" : "1",
+  "Stories": [
+    {
+      "title": "Brief Run",
+      "difficulty": 5,
+      "description": "A man in a suit is running through a corridor holding a briefcase, as soon as he sees the lights flickering, he stops running. Why?",
+      "solution": "The man is a lawyer and he has received a last minute pardon for his client who was on death row. When he sees the light flicker he knows that he is too late and that his client has already been killed by the electric chair."
+    },
+    {
+      "title": "Water Gun",
+      "difficulty": 5,
+      "description": "Philip Diallo took a seat at the bar and asked the barkeeper for a glass of water. After giving Philip his water, the barkeeper pulled out a gun and pointed it at the Philip's head. Philip never drank his glass of water. He thanked the barkeeper and left.",
+      "solution": "Philip had the hiccups. He ordered some water to try get rid of his hiccups. The barkeeper noticed him hiccuping and tried to frighten him by pointing a gun at his head. The surprise and shock made Philip forget about his hiccups so he no longer needed the water."
+    },
+    {
+      "title": "Dark story",
+      "difficulty": 4,
+      "description": "Marcel and Henry were sitting in a dark room. They didn't speak but after 10 minutes Marcel was certain that Henry had been cheating with his wife.",
+      "solution": "Marcel and Henry worked in a darkroom where they developed photographs for customers. While developing some film from a local photographer, Marcel noticed that his wife and Henry could be seen together in the background of some of the pictures and in one they were clearly kissing."
+    },
+    {
+      "title": "Dead Calm",
+      "difficulty": 4,
+      "description": "Aleksander Lizka was at home when all of a sudden he started to feel weak. His daughters called the emergency services and an ambulance arrived in minutes to take him to the hospital. Aleksander died as he was being carried into the hospital. At his funeral the family were comforted by how calm he looked in death. While gathered around his coffin, police entered the funeral home and arrested the funeral director.",
+      "solution": "The funeral director wanted more business for his funeral home so he paid the ambulance workers to kill any elderly patients that availed of their services. They did so by administering a lethal dose of muscle relaxant to the patients. Aleksander was one of many victims and the police had finally gathered enough evidence to arrest the crooked funeral director so they arrested him as soon as they could."
+    },
+    {
+      "title": "Rice Marks",
+      "difficulty": 3,
+      "description": "On a very windy summers day in 2015, Emilija Nikolov was found dead in her back garden with a bullet wound in her head. Her uncle Nikanor Nikolov was arrested for causing her death. Nikanor had hundreds of alibis to say that he was attending the wedding of his good friend Luka Popovski on the other side of town but still he was found guilty. Nikanor had to go to jail for ten years.",
+      "solution": "Nikanor was the best man at Luka's wedding in a small town in Macedonia. After the vows had been made, Nikanor fired some celebratory shots in the air from his rifle. One of the bullets fell from the sky and, carried further by the wind, hit Emilija in her head, killing her instantly. The maximum jail time for firing celerbratory shots in Macedonia is ten years and Nikanor was given the maximum sentence."
+    },
+    {
+      "title": "Strong alibi",
+      "difficulty": 3,
+      "description": "There was a fatal hit-and-run in Dublin caused by a speeding car. There were two witnesses and both said that the car was from 2014 and had \"LE\" on the license plate. The police could now narrow the search down to the small county of Leitrim and with the other information provided by the witnesses, they could further narrow their search to one suspect. However, the suspect had a strong alibi of where he was that day and he couldn't have committed the crime.",
+      "solution": "The witnesses were identical twins who were both colour blind. They had mistakenly reported the car as being blue when it was actually green. There was only one blue car that matched the make and model reported by the brothers registered in Leitrim in the 2014. That car was still registered to its original owner so the police assumed that it must be him."
+    },
+    {
+      "title": "One Down",
+      "difficulty": 2,
+      "description": "Two policemen knocked on Aarav Patel's door. When he answered, they told him that his twin brother Kumar Patel had died in a car crash. Aarav went to the hospital with the policemen to identify his brother. When he got there he notified the police that it wasn't his twin.",
+      "solution": "Although Aarav and Kumar were born on the same day, they were not twins, He, (his sister) Mayukhi and Kumar were triplets. He didn't mention this to the police when he answered the door because he was in shock."
+    },
+    {
+      "title": "New Member",
+      "difficulty": 2,
+      "description": "Ruth Chang is a fit and healthy 21-year-old who attends pilate classes every Tuesday and Thursday at the local gym. Her mother, Lily Chang, passed away 2 years from an unknown cause after Ruth left for college. Riley Vanderbilt also attends the pilate classes. Ruth dies a week after Riley joins their gym.",
+      "solution": "Jane Vanderbilt and Stefan Van Damme both died in a car explosion. Riley Van Damme is the child of a loveless, political marriage between Jane and Stefan. Stefan's family came from a long line of wealth. With Stefan and Jane's passing, Riley is in line for her family's inheritance. Ruth Chang is the love child of Stefan and Lily Chang. While packing up her father's belongings, Riley found a picture of Stefan, Lily, and Ruth in his office safe. In fear of her inheritance being threatened and her family name soiled, she secretly stalked Ruth in her plan to cease her existence. Riley planted a degradable nano-device that contains poison on the inside of Ruth's water bottle. Once the poison is depleted, the device will dissolve without a trace. Ruth dies a week later and there were no links tying it back to Riley."
+    },
+    {
+      "title": "Forever 2020",
+      "difficulty": 3,
+      "description": "Doug and his friends were drinking at a bar on new years eve and were excited for a new year. When the countdown dropped to 10 everyone at the bar started counting down from 10. \"10, 9, 8..\" They cried. \"5, 4, 3, 2, 1,\" Suddenly everyone at the bar collapsed to the ground with a glass of unfinished wine in their hand, Except for Doug.",
+      "solution": "The Barkeeper was the one who murdered everyone. they were not happy with the people drinking and making so much noise. she decided to sneak some Dangerous drugs in everyone's drinks to make them quiet. as she prepared the final drink she waited for the countdown to drop to 10. then she served the drinks to everyone as soon as possible and watched them sip their drinks. Doug did not die because he was just there to watch the countdown and did not drink."
+    }
+  ]
+}
+
