@@ -1,60 +1,362 @@
 {
-  "version" : "2",
+  "version" : "6",
   "Stories": [
     {
       "title": "Brief Run",
+      "tags": ["#prison"],
       "difficulty": 5,
       "description": "A man in a suit is running through a corridor holding a briefcase, as soon as he sees the lights flickering, he stops running. Why?",
       "solution": "The man is a lawyer and he has received a last minute pardon for his client who was on death row. When he sees the light flicker he knows that he is too late and that his client has already been killed by the electric chair."
     },
     {
       "title": "Water Gun",
+      "tags": ["#bar","#gun","#non-murder"],
       "difficulty": 5,
       "description": "Philip Diallo took a seat at the bar and asked the barkeeper for a glass of water. After giving Philip his water, the barkeeper pulled out a gun and pointed it at the Philip's head. Philip never drank his glass of water. He thanked the barkeeper and left.",
       "solution": "Philip had the hiccups. He ordered some water to try get rid of his hiccups. The barkeeper noticed him hiccuping and tried to frighten him by pointing a gun at his head. The surprise and shock made Philip forget about his hiccups so he no longer needed the water."
     },
     {
       "title": "Dark story",
+      "tags": ["#cheating","#non-murder"],
       "difficulty": 4,
       "description": "Marcel and Henry were sitting in a dark room. They didn't speak but after 10 minutes Marcel was certain that Henry had been cheating with his wife.",
       "solution": "Marcel and Henry worked in a darkroom where they developed photographs for customers. While developing some film from a local photographer, Marcel noticed that his wife and Henry could be seen together in the background of some of the pictures and in one they were clearly kissing."
     },
     {
       "title": "Dead Calm",
+      "tags": ["#hospital"],
       "difficulty": 4,
       "description": "Aleksander Lizka was at home when all of a sudden he started to feel weak. His daughters called the emergency services and an ambulance arrived in minutes to take him to the hospital. Aleksander died as he was being carried into the hospital. At his funeral the family were comforted by how calm he looked in death. While gathered around his coffin, police entered the funeral home and arrested the funeral director.",
       "solution": "The funeral director wanted more business for his funeral home so he paid the ambulance workers to kill any elderly patients that availed of their services. They did so by administering a lethal dose of muscle relaxant to the patients. Aleksander was one of many victims and the police had finally gathered enough evidence to arrest the crooked funeral director so they arrested him as soon as they could."
     },
     {
       "title": "Rice Marks",
+      "tags": ["#murder","#jail","#wedding","#alibi","#summer"],
       "difficulty": 3,
       "description": "On a very windy summers day in 2015, Emilija Nikolov was found dead in her back garden with a bullet wound in her head. Her uncle Nikanor Nikolov was arrested for causing her death. Nikanor had hundreds of alibis to say that he was attending the wedding of his good friend Luka Popovski on the other side of town but still he was found guilty. Nikanor had to go to jail for ten years.",
       "solution": "Nikanor was the best man at Luka's wedding in a small town in Macedonia. After the vows had been made, Nikanor fired some celebratory shots in the air from his rifle. One of the bullets fell from the sky and, carried further by the wind, hit Emilija in her head, killing her instantly. The maximum jail time for firing celerbratory shots in Macedonia is ten years and Nikanor was given the maximum sentence."
     },
     {
       "title": "Strong alibi",
+      "tags": ["#car-accident","#police","#alibi"],
       "difficulty": 3,
       "description": "There was a fatal hit-and-run in Dublin caused by a speeding car. There were two witnesses and both said that the car was from 2014 and had \"LE\" on the license plate. The police could now narrow the search down to the small county of Leitrim and with the other information provided by the witnesses, they could further narrow their search to one suspect. However, the suspect had a strong alibi of where he was that day and he couldn't have committed the crime.",
       "solution": "The witnesses were identical twins who were both colour blind. They had mistakenly reported the car as being blue when it was actually green. There was only one blue car that matched the make and model reported by the brothers registered in Leitrim in the 2014. That car was still registered to its original owner so the police assumed that it must be him."
     },
     {
       "title": "One Down",
+      "tags": ["#police","#car-accident"],
       "difficulty": 2,
       "description": "Two policemen knocked on Aarav Patel's door. When he answered, they told him that his twin brother Kumar Patel had died in a car crash. Aarav went to the hospital with the policemen to identify his brother. When he got there he notified the police that it wasn't his twin.",
       "solution": "Although Aarav and Kumar were born on the same day, they were not twins, He, (his sister) Mayukhi and Kumar were triplets. He didn't mention this to the police when he answered the door because he was in shock."
     },
     {
       "title": "New Member",
+      "tags": ["#family","#sudden-death"],
       "difficulty": 2,
       "description": "Ruth Chang is a fit and healthy 21-year-old who attends pilate classes every Tuesday and Thursday at the local gym. Her mother, Lily Chang, passed away 2 years from an unknown cause after Ruth left for college. Riley Vanderbilt also attends the pilate classes. Ruth dies a week after Riley joins their gym.",
       "solution": "Jane Vanderbilt and Stefan Van Damme both died in a car explosion. Riley Van Damme is the child of a loveless, political marriage between Jane and Stefan. Stefan's family came from a long line of wealth. With Stefan and Jane's passing, Riley is in line for her family's inheritance. Ruth Chang is the love child of Stefan and Lily Chang. While packing up her father's belongings, Riley found a picture of Stefan, Lily, and Ruth in his office safe. In fear of her inheritance being threatened and her family name soiled, she secretly stalked Ruth in her plan to cease her existence. Riley planted a degradable nano-device that contains poison on the inside of Ruth's water bottle. Once the poison is depleted, the device will dissolve without a trace. Ruth dies a week later and there were no links tying it back to Riley."
     },
     {
       "title": "Forever 2020",
+      "tags": ["#bar","#winter"],
       "difficulty": 3,
       "description": "Doug and his friends were drinking at a bar on new years eve and were excited for a new year. When the countdown dropped to 10 everyone at the bar started counting down from 10. \"10, 9, 8..\" They cried. \"5, 4, 3, 2, 1,\" Suddenly everyone at the bar collapsed to the ground with a glass of unfinished wine in their hand, Except for Doug.",
       "solution": "The Barkeeper was the one who murdered everyone. they were not happy with the people drinking and making so much noise. she decided to sneak some Dangerous drugs in everyone's drinks to make them quiet. as she prepared the final drink she waited for the countdown to drop to 10. then she served the drinks to everyone as soon as possible and watched them sip their drinks. Doug did not die because he was just there to watch the countdown and did not drink."
+    },
+    {
+      "title": "Sweet dreams",
+      "tags": ["#non-murder","#family"],
+      "difficulty": 2,
+      "description": "Matthew keeps reading a bedtime story to his son despite the blackout.",
+      "solution": "Matthew was blind and he usually read bedtime stories to his son from a braille book. That night there was a blackout, but this did not stop him from finishing the story."
+    },
+    {
+      "title": "It didn't seem that serious",
+      "tags": ["#death"],
+      "difficulty": 3,
+      "description": "Anthony couldn't have imagined his cold would be the cause of his death.",
+      "solution": "There was a gas leak at Anthony's house but since he had a cold, he could not smell it. He died when he started a fire, as he was cooking his dinner."
+    },
+    {
+      "title": "Mortal shoes",
+      "tags": ["#death"],
+      "difficulty": 4,
+      "description": "A woman buys a new pair of shoes, goes to work, and dies.",
+      "solution": "The woman is the assistant to a circus knife-thrower, who stands in front of a target as knives are thrown around her. The new shoes have higher heels than she normally wears, causing the thrower to misjudge his aim."
+    },
+    {
+      "title": "Jack and Judy are dead",
+      "tags": ["#death"],
+      "difficulty": 3,
+      "description": "Jack and Judy were lying on the floor dead. There was a puddle of water and broken glass on the floor. How did they die?",
+      "solution": "Jack and Judy were two goldfish that swam in a small aquarium placed on a shelf. One afternoon, a cat sneaked into the room through the window and hit the aquarium that fell off the shelf and broke against the ground."
+    },
+    {
+      "title": "An uncommon man",
+      "tags": ["#non-murder"],
+      "difficulty": 4,
+      "description": "A man lives on the 10th floor of a building. Every morning he takes the elevator to the ground floor to go to work. Upon returning from work he goes up always to floor 7th in the elevator. Then he goes upstairs the 3 remaining floors.",
+      "solution": "The man is very short so he has no problem to press the button on the ground floor but he does not reach the 10th floor button. The maximum he reaches is up to the 7th floor button."
+    },
+    {
+      "title": "No light",
+      "tags": ["#classic"],
+      "difficulty": 3,
+      "description": "A man woke up at night feeling thirsty. Then he turned off the light everywhere and went to bed again. In the morning he woke up, looked out of the window and yelled. Soon after he committed suicide.",
+      "solution": "The man was caretaker. Accidentally he turned off the lighthouse and it caused some shipwrecks. When he woke up, he realized what he have done."
+    },
+    {
+      "title": "Death: delayed",
+      "tags": ["#non-murder"],
+      "difficulty": 4,
+      "description": "Helen never thought that her decision to travel by plane would save her life.",
+      "solution": "A few days earlier Helen had been operated on. Before boarding the plane, she had to go through the metal detector, which kept going off, despite the fact that she had removed everything metal she had on. After an X-ray examination, it was discovered that the doctors had left a scalpel inside her body. If Helen had not discovered it in time, she would died for sure."
+    },
+    {
+      "title": "Drowned",
+      "tags": ["#death"],
+      "difficulty": 3,
+      "description": "After George tries to hug a person, he dies by drowning.",
+      "solution": "George was under the influence of alcohol and saw his reflection on a river. As he was intoxicated, he thought that it would be a good idea to give a hug to the \"stranger\". However this caused him to fall into the river and drown."
+    },
+    {
+      "title": "The Black Cat",
+      "tags": ["#cat","#non-murder"],
+      "difficulty": 2,
+      "description": "A black cat is walking through the middle of a road where there is a broken street lamp. A man is driving his vehicle with headlights that do not work. Despite all of this, he is able to avoid harming the cat.",
+      "solution": "The man avoided the cat because it was daylight."
+    },
+    {
+      "title": "Fatal shot",
+      "tags": ["#death","#gun"],
+      "difficulty": 3,
+      "description": "A hunter aimed his gun carefully and fired. Seconds later, he realized his mistake. Minutes later, he was dead.",
+      "solution": "He hunted in snow-capped mountains. The shot provoked an avalanche, which covered the man. He died of strangulation."
+    },
+    {
+      "title": "What an incredible sight!",
+      "tags": ["#murder","#death"],
+      "difficulty": 2,
+      "description": "A woman is looking through the window and sees a man with a knife. However, she does not have enough time to call the police before being murdered.",
+      "solution": "What the woman really saw was the reflection of the murderer, who was already inside her house, behind her."
+    },
+    {
+      "title": "Radio silence",
+      "tags": ["#suicide","#death"],
+      "difficulty": 5,
+      "description": "A man is driving his car while listening to the radio when suddenly the radio goes silent. He then decides to leave the road and throw himself off the top of a cliff.",
+      "solution": "The man was a radio broadcaster who had committed a murder. He had left a recorded radio broadcast live as an alibi. Realizing that the program he had prepared had stopped airing accidentally and that they would know that he was the culprit, he decided to end his life."
+    },
+    {
+      "title": "Time to sleep",
+      "tags": ["#non-murder"],
+      "difficulty": 2,
+      "description": "A woman is watching a movie. Suddenly she hears a lot of explosions and people screaming outside. Then there is silence. The woman turns off the TV and goes to sleep.",
+      "solution": "It was New Year's Eve. The woman waited until everyone had finished celebrating and then went to bed."
+    },
+    {
+      "title": "Don't open The Door",
+      "tags": ["#family","#non-murder"],
+      "difficulty": 4,
+      "description": "A little girl was warned by her parents never to open the cellar door. If she did, she would see things that they did not want her to see. One day, while her parents were out, they accidentally left the cellar door unlocked. The girl opened the cellar door. What did she see?",
+      "solution": "When the girl opened the cellar door she saw the living room and a beautiful garden through its windows. She had never seen these before because her parents had kept her in the cellar all her life."
+    },
+    {
+      "title": "The birdwatcher",
+      "tags": ["#death"],
+      "difficulty": 2,
+      "description": "An avid birdwatcher sees an unexpected bird. Soon he’s dead. How come?",
+      "solution": "He is a passenger in an airplane and sees the bird get sucked into an engine at 20,000 feet."
+    },
+    {
+      "title": "The mysterious key",
+      "tags": ["#non-murder"],
+      "difficulty": 3,
+      "description": "Every night before going to sleep, Lisa locks the door of her house and attaches the key to a string. Why?",
+      "solution": "Lisa was a sleepwalker. Some days before, she had left her house in the middle of the night without realizing. To prevent this happening again, she began tying the key with a piece of string to a bell each night. That way, if Lisa tried to leave the house, her husband would wake up and take her back to bed."
+    },
+    {
+      "title": "Death at Sea",
+      "tags": ["#murder"],
+      "difficulty": 5,
+      "description": "A man sitting on a park bench reads a newspaper article headlined \"Death at Sea\" and knows a murder has been committed.",
+      "solution": "The man is a travel agent. He had sold someone two tickets for an ocean voyage, one round-trip and one one-way. The last name of the man who bought the tickets is the same as the last name of the woman who \"fell\" overboard and drowned on the same voyage, which is the subject of the article he's reading.\n\nThis may have derived from a story done by Alfred Hitchcock, if the following Hitchcock quotation is accurate: \"If you take your wife on a sea voyage, buy her a round-trip ticket no matter what your plans may be.\""
+    },
+    {
+      "title": "A stranger in the car",
+      "tags": ["#death","#family"],
+      "difficulty": 2,
+      "description": "A married couple was speeding into town when their sedan ran out of gas. The man went for help after making sure his wife closed the windows and locked the doors of the car. Upon his return, he found his wife dead and a stranger in the car. The windows were still closed, the doors were still locked, and no damage was done to the car.",
+      "solution": "The woman gave birth, and bled to death. Since the father has never seen the baby before, the kid can technically be called a stranger."
+    },
+    {
+      "title": "There's light",
+      "tags": ["#death"],
+      "difficulty": 2,
+      "description": "Roger sees the light and he becomes paralyzed. Soon after that he dies.",
+      "solution": "Roger was a rabbit that escaped from the house where he lived. He was crossing the road at night when the lights of a car blinded him. The driver did not see him and ran him over."
+    },
+    {
+      "title": "Lost",
+      "tags": ["#non-murder"],
+      "difficulty": 3,
+      "description": "Jack goes on a trip with his compass. After a long walk, he stops to eat a sandwich. He is not able to find his way back afterwards.",
+      "solution": "Jack was a scientist who worked near the North Pole. When he went walking, he walked towards the north and he stopped to eat his sandwich exactly at the North Pole. When he tried to return home, his compass was useless, since every direction pointed South."
+    },
+    {
+      "title": "The Library",
+      "tags": ["#non-murder"],
+      "difficulty": 4,
+      "description": "A woman goes to the library, takes a book and cries out.",
+      "solution": "The woman was a writer and she had donated one of her books to the library. She had included a 50$ bill among the pages as a gift for the first person borrowing the book. After a year, she came back to the library, took the book and saw that the bill was still there. Realizing that no one had read her book she burst into tears."
+    },
+    {
+      "title": "Prison break",
+      "tags": ["#prison","#non-murder"],
+      "difficulty": 2,
+      "description": "Michael is in prison. One day, he has lunch, goes to prison courtyard for a while and finally visits the library. At dusk, out of the reach of the security cameras, he changes his clothes. He then goes through the door to leave the prison, without being caught.",
+      "solution": "Michael worked as a guard in the prison."
+    },
+    {
+      "title": "The punch",
+      "tags": ["#death"],
+      "difficulty": 2,
+      "description": "A man went into a party and drank some of the punch. He then left early. Everyone at the party who drunk the punch subsequently died of poisoning. Why did the man not die?",
+      "solution": "The poison from the punch came from the ice cubes. When the man drank the punch, the ice was fully frozen. Gradually, as the ice cubes melted the poison was released into the punch."
+    },
+    {
+      "title": "Employee of the Month",
+      "tags": ["#death"],
+      "difficulty": 3,
+      "description": "Francis dies of a heart attack at work. His colleagues are there when it happens. However, they do not call for help until Francis dies.",
+      "solution": "Francis was a theater actor and suffered a heart attack in the middle of a performance. However, he was playing someone who was having a heart attack. Therefore, both his colleagues and the audience simply thought that he was giving a really impressive performance."
+    },
+    {
+      "title": "An unexpected ending",
+      "tags": ["#non-murder"],
+      "difficulty": 2,
+      "description": "An exotic dancer goes on a date for a private session with a man. In the room where they are, she takes her shirt and bra off. The man approaches, watches her breasts and smiles. Soon after, she dresses herself up, pays the man and leaves.",
+      "solution": "The woman had undergone a breast augmentation surgery a few days earlier and she had arranged an appointment with her private doctor to review the result of the operation. The man saw that everything was perfect and that he had done a great job. Finally the woman paid the bill and left the clinic."
+    },
+    {
+      "title": "The accident",
+      "tags": ["#car-accident"],
+      "difficulty": 4,
+      "description": "A car driver causes an accident when he crashes into a bike, as he was making an unexpected turn at a crossroad. When the policemen arrive, another man gets arrested. The one who was driving is carried home.",
+      "solution": "The driver was receiving driving lessons and his instructor told him to make an incorrect turn at a crossroad, crashing into a bike. The policemen considered the driving instructor to be responsible for the accident so they arrested him and took the learner home."
+    },
+    {
+      "title": "A woman shoe",
+      "tags": ["#non-murder"],
+      "difficulty": 3,
+      "description": "Before going to bed, the woman hides her shoe in the safe. What for?",
+      "solution": "This woman works as a stewardess on an airplane. In the hotel before going to bed she puts her documents in the safe, and to not forget them in the morning, she puts one of her shoes along with the documents."
+    },
+    {
+      "title": "Chicken gun",
+      "tags": ["#non-murder"],
+      "difficulty": 4,
+      "description": "In the 1950s in America there was an invention of a chicken gun. What for?",
+      "solution": "A chicken gun is a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Whole, dead, standard-size chickens, as would be used for cooking, are thought to accurately simulate a large, live bird striking a plane in flight."
+    },
+    {
+      "title": "Levitation",
+      "tags": ["#death","#suicide"],
+      "difficulty": 2,
+      "description": "A man is found hanging in an otherwise empty locked room with a puddle of water under his feet.",
+      "solution": "He stood on a block of ice to hang himself."
+    },
+    {
+      "title": "Private space",
+      "tags": ["#non-murder","#police"],
+      "difficulty": 5,
+      "description": "The Venezuelan police made a few attempts to arrest a well-known bandit. They knew where he lived. From time to time they got the arrest warrant and approached his house. When they entered the house, he was locked in the bedroom. The police had nothing to do but to leave empty-handed.",
+      "solution": "His house was on the border between Venezuela and Colombia. Although the front door and half of the house were on the territory of Venezuela, the bedroom was located on the territory of Colombia. The Venezuelan police had no jurisdiction in Colombia, so the police couldn't arrest him while he was in the bedroom."
+    },
+    {
+      "title": "Prick",
+      "tags": ["#death"],
+      "difficulty": 2,
+      "description": "A man walks through the desert, suddenly he sees a cactus and notices an empty sheet of paper on it. He lies down and dies.",
+      "solution": "It was his own sheet of paper, which he left when he wandered through the desert. When he saw it, he realized that he got lost forever."
+    },
+    {
+      "title": "Similar devices",
+      "tags": ["#non-death"],
+      "difficulty": 4,
+      "description": "Two devices are commonly used by people. They are created for the same purpose. But one of them has lots of details and another does not has any. What are these things?",
+      "solution": "One of these devices is hourglass. Another one is sundial.\n\nLittle hint for players: both devices are invented long time ago."
+    },
+    {
+      "title": "On a bus",
+      "tags": ["#non-murder"],
+      "difficulty": 2,
+      "description": "When on a bus, Kate wanted to offer her seat to a woman who's just got on. But she was very embarrassed and refused. Why?",
+      "solution": "Little Kate was sitting in her dad's lap."
+    },
+    {
+      "title": "Happy death",
+      "tags": ["#death"],
+      "difficulty": 2,
+      "description": "Beulah died in the Appalachians, while Craig died at sea. Everyone was much happier with Craig's death. How come?",
+      "solution": "Beulah and Craig were hurricanes."
+    },
+    {
+      "title": "Gone with the wind",
+      "tags": ["#death"],
+      "difficulty": 4,
+      "description": "If the wind hadn't blown so strongly that night, Angela would still be alive.",
+      "solution": "As it was windy, Angela decided to go to a field to fly her kite. At twilight, she could not see the nearby transmission tower. When her kite got tangled in the cables and she tried to untangle them, she was electrocuted."
+    },
+    {
+      "title": "The lost treasure",
+      "tags": ["#non-murder"],
+      "difficulty": 3,
+      "description": "Jimmy hid a treasure but when he wanted to recover it, he was not able to.",
+      "solution": "Jimmy buried a treasure when he was 8 years old. He had written a note when he was younger with how many steps he would take to find his treasure. But now that he was grown up, his stride was much longer and he could never find his treasure."
+    },
+    {
+      "title": "Fire!",
+      "tags": ["#death"],
+      "difficulty": 4,
+      "description": "Paul goes diving. How could he know he would be burnt to a crisp?",
+      "solution": "He was scuba diving when a firefighting plane landed nearby and filled its tanks with water, sucking him in. He ran out of air while the plane was in flight; then the water, with him in it, was dumped onto a burning forest."
+    },
+    {
+      "title": "Not now...!",
+      "tags": ["#death","#suicide"],
+      "difficulty": 4,
+      "description": "A woman is at home, sad, and watching the street through her window. Soon after she jumps out of it. Just in that precise moment, she hears the telephone ringing and regrets jumping.",
+      "solution": "After a nuclear catastrophe, the woman thought that she was the only person alive and decided to put an end to her life. When the telephone rang she realized that she was not alone. But it was too late for her."
     }
+  ],
+  "all_tags":
+  [
+    "#prison",
+    "#bar",
+    "#gun",
+    "#non-murder",
+    "#cheating",
+    "#winter",
+    "#summer",
+    "#spring",
+    "#autumn",
+    "#police",
+    "#car-accident",
+    "#alibi",
+    "#death",
+    "#suicide",
+    "#cat",
+    "#murder",
+    "#jail",
+    "#wedding",
+    "#pet",
+    "#alchohol",
+    "#hospital",
+    "#family",
+    "#sudden-death"
+
   ]
 }
 
