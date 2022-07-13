@@ -343,6 +343,7 @@
     "#spring",
     "#autumn",
     "#police",
+    "#classic",
     "#car-accident",
     "#alibi",
     "#death",
@@ -355,7 +356,8 @@
     "#alchohol",
     "#hospital",
     "#family",
-    "#sudden-death"
+    "#sudden-death",
+    "#non-death"
 
   ]
 }
