@@ -1,5 +1,5 @@
 {
-  "version" : "8",
+  "version" : "9",
   "Stories": [
     {
       "title": "Brief Run",
@@ -731,6 +731,13 @@
     },
     {
       "title": "TEST",
+      "tags": ["#death"],
+      "difficulty": 1,
+      "description": "TEST.",
+      "solution": "TEST."
+    },
+    {
+      "title": "TEST 2",
       "tags": ["#death"],
       "difficulty": 1,
       "description": "TEST.",
