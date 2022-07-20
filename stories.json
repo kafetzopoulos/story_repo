@@ -1,5 +1,5 @@
 {
-  "version" : "9",
+  "version" : "10",
   "Stories": [
     {
       "title": "Brief Run",
@@ -728,20 +728,6 @@
       "difficulty": 4,
       "description": "Paul comes home tired. He goes to his room and turns off the light to sleep. After a while, feeling uneasy, he turns on the light and looks around. He turns the light back off and tries to sleep again. After repeating this several times, he takes a look under his bed and finds a dead body.",
       "solution": "A thief was stealing from Paul's home. When Paul arrived home, the thief hid under the bed. The tension became too much and the thief suffered a sudden heart attack Paul was unable to sleep due to the ticking of the thief's wristwatch."
-    },
-    {
-      "title": "TEST",
-      "tags": ["#death"],
-      "difficulty": 1,
-      "description": "TEST.",
-      "solution": "TEST."
-    },
-    {
-      "title": "TEST 2",
-      "tags": ["#death"],
-      "difficulty": 1,
-      "description": "TEST.",
-      "solution": "TEST."
     }
   ],
   "all_tags":
