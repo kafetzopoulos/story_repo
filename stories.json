@@ -2,725 +2,669 @@
   "version" : "7",
   "Stories": [
     {
-      "title": "Brief Run",
+      "title": "Flickering Lights",
       "tags": ["#prison"],
       "difficulty": 5,
-      "description": "A man in a suit is running through a corridor holding a briefcase, as soon as he sees the lights flickering, he stops running. Why?",
-      "solution": "The man is a lawyer and he has received a last minute pardon for his client who was on death row. When he sees the light flicker he knows that he is too late and that his client has already been killed by the electric chair."
+      "description": "A man in a blue suit is running through a corridor clutching a briefcase Suddenly he sees the lights flicker and he stops running. Why?",
+      "solution": "The man is a lawyer and he has received a last-minute pardon for his client on death row. When he sees the light flicker, he knows that he is too late and that his client has already been executed via electric chair."
     },
     {
-      "title": "Water Gun",
-      "tags": ["#bar","#gun","#riddle"],
+      "title": "Barkeeper's Gun",
+      "tags": ["#bar","#gun","#riddle","#classic"],
       "difficulty": 5,
-      "description": "Philip Diallo took a seat at the bar and asked the barkeeper for a glass of water. After giving Philip his water, the barkeeper pulled out a gun and pointed it at the Philip's head. Philip never drank his glass of water. He thanked the barkeeper and left.",
-      "solution": "Philip had the hiccups. He ordered some water to try get rid of his hiccups. The barkeeper noticed him hiccuping and tried to frighten him by pointing a gun at his head. The surprise and shock made Philip forget about his hiccups so he no longer needed the water."
+      "description": "A man took a seat at the bar and asked the barkeeper for a glass of water. After giving the man his water, the barkeeper pulled out a gun from under the counter and pointed it at the man's head. The man never drank his glass of water. He thanked the barkeeper and left.",
+      "solution": "The man had the hiccups. He ordered some water to try get rid of his hiccups. The barkeeper noticed him hiccuping and tried to frighten him by pointing a gun at his head. The surprise and shock cured the man's hiccups  hiccups so the water was no longer necessary."
     },
     {
-      "title": "Dark story",
-      "tags": ["#cheating","#riddle"],
+      "title": "Interrupting a funeral",
+      "tags": ["#hospital","#police","#death"],
       "difficulty": 4,
-      "description": "Marcel and Henry were sitting in a dark room. They didn't speak but after 10 minutes Marcel was certain that Henry had been cheating with his wife.",
-      "solution": "Marcel and Henry worked in a darkroom where they developed photographs for customers. While developing some film from a local photographer, Marcel noticed that his wife and Henry could be seen together in the background of some of the pictures and in one they were clearly kissing."
+      "description": "George was at home when all of a sudden, he started to feel weak. His daughters called the emergency services and an ambulance arrived soon to take him to the hospital. George died as he was being carried into the hospital. At his funeral the family were comforted by how relaxed and calm he looked in death. While his family was gathered around his coffin, police entered the funeral home and arrested the funeral director.",
+      "solution": "The funeral director wanted more business for his funeral home so he paid the ambulance workers to kill any elderly patients that availed of their services. They did so by administering a lethal dose of muscle relaxant to the patients. George was one of many victims and the police had finally gathered enough evidence to arrest the funeral director so they arrested him as soon as they could."
     },
     {
-      "title": "Dead Calm",
-      "tags": ["#hospital"],
-      "difficulty": 4,
-      "description": "Aleksander Lizka was at home when all of a sudden he started to feel weak. His daughters called the emergency services and an ambulance arrived in minutes to take him to the hospital. Aleksander died as he was being carried into the hospital. At his funeral the family were comforted by how calm he looked in death. While gathered around his coffin, police entered the funeral home and arrested the funeral director.",
-      "solution": "The funeral director wanted more business for his funeral home so he paid the ambulance workers to kill any elderly patients that availed of their services. They did so by administering a lethal dose of muscle relaxant to the patients. Aleksander was one of many victims and the police had finally gathered enough evidence to arrest the crooked funeral director so they arrested him as soon as they could."
-    },
-    {
-      "title": "Rice Marks",
+      "title": "Wedding murder",
       "tags": ["#murder","#jail","#alibi","#summer"],
       "difficulty": 3,
-      "description": "On a very windy summers day in 2015, Emilija Nikolov was found dead in her back garden with a bullet wound in her head. Her uncle Nikanor Nikolov was arrested for causing her death. Nikanor had hundreds of alibis to say that he was attending the wedding of his good friend Luka Popovski on the other side of town but still he was found guilty. Nikanor had to go to jail for ten years.",
-      "solution": "Nikanor was the best man at Luka's wedding in a small town in Macedonia. After the vows had been made, Nikanor fired some celebratory shots in the air from his rifle. One of the bullets fell from the sky and, carried further by the wind, hit Emilija in her head, killing her instantly. The maximum jail time for firing celerbratory shots in Macedonia is ten years and Nikanor was given the maximum sentence."
+      "description": "On a very windy summers day in 2015, Helen was found dead in her back garden with a bullet wound on her head. Her uncle Nick was arrested for causing her death. Nick had a strong alibi as he was attending the wedding of his good friend John on the other side of town but he was found guilty nonetheless.",
+      "solution": "Nick was the best man at John wedding in a small town in South Aegean. After the vows had been made, Nick fired some celebratory shots in the air with his hunting rifle. One of the bullets fell from the sky and, carried further by the wind, hit Helen in her head, killing her instantly. Thus, Nick was arrested and found guilty of manslaughter"
     },
     {
-      "title": "Strong alibi",
+      "title": "Hit-and-run",
       "tags": ["#car-accident","#police","#alibi"],
       "difficulty": 3,
-      "description": "There was a fatal hit-and-run in Dublin caused by a speeding car. There were two witnesses and both said that the car was from 2014 and had \"LE\" on the license plate. The police could now narrow the search down to the small county of Leitrim and with the other information provided by the witnesses, they could further narrow their search to one suspect. However, the suspect had a strong alibi of where he was that day and he couldn't have committed the crime.",
-      "solution": "The witnesses were identical twins who were both colour blind. They had mistakenly reported the car as being blue when it was actually green. There was only one blue car that matched the make and model reported by the brothers registered in Leitrim in the 2014. That car was still registered to its original owner so the police assumed that it must be him."
+      "description": "There was a fatal hit-and-run in 2018 caused by a speeding car. There were two witnesses and both said that the car was a specific BMW model and had \"GR\" on the license plate. The police could now narrow the search down to the country of Greece and with further information provided by the witnesses, they could then narrow their search down to one suspect. However, the suspect had a strong alibi of where he was that day and he couldn't have committed the crime.",
+      "solution": "The witnesses were identical twins who were both colour blind. They had mistakenly reported the car as being blue when it was actually green. There was only one blue car that matched the make and model reported by the brothers registered in Greece in 2018. That car was still registered to its original owner so the police assumed that it must be him."
     },
     {
-      "title": "New Member",
-      "tags": ["#family","#death"],
-      "difficulty": 2,
-      "description": "Ruth Chang is a fit and healthy 21-year-old who attends pilate classes every Tuesday and Thursday at the local gym. Her mother, Lily Chang, passed away 2 years from an unknown cause after Ruth left for college. Riley Vanderbilt also attends the pilate classes. Ruth dies a week after Riley joins their gym.",
-      "solution": "Jane Vanderbilt and Stefan Van Damme both died in a car explosion. Riley Van Damme is the child of a loveless, political marriage between Jane and Stefan. Stefan's family came from a long line of wealth. With Stefan and Jane's passing, Riley is in line for her family's inheritance. Ruth Chang is the love child of Stefan and Lily Chang. While packing up her father's belongings, Riley found a picture of Stefan, Lily, and Ruth in his office safe. In fear of her inheritance being threatened and her family name soiled, she secretly stalked Ruth in her plan to cease her existence. Riley planted a degradable nano-device that contains poison on the inside of Ruth's water bottle. Once the poison is depleted, the device will dissolve without a trace. Ruth dies a week later and there were no links tying it back to Riley."
-    },
-    {
-      "title": "Forever 2020",
-      "tags": ["#bar","#winter"],
-      "difficulty": 3,
-      "description": "Doug and his friends were drinking at a bar on new years eve and were excited for a new year. When the countdown dropped to 10 everyone at the bar started counting down from 10. \"10, 9, 8..\" They cried. \"5, 4, 3, 2, 1,\" Suddenly everyone at the bar collapsed to the ground with a glass of unfinished wine in their hand, Except for Doug.",
-      "solution": "The Barkeeper was the one who murdered everyone. they were not happy with the people drinking and making so much noise. she decided to sneak some Dangerous drugs in everyone's drinks to make them quiet. as she prepared the final drink she waited for the countdown to drop to 10. then she served the drinks to everyone as soon as possible and watched them sip their drinks. Doug did not die because he was just there to watch the countdown and did not drink."
-    },
-    {
-      "title": "Sweet dreams",
+      "title": "Bedtime Story",
       "tags": ["#riddle","#family"],
       "difficulty": 2,
-      "description": "Matthew keeps reading a bedtime story to his son despite the blackout.",
-      "solution": "Matthew was blind and he usually read bedtime stories to his son from a braille book. That night there was a blackout, but this did not stop him from finishing the story."
+      "description": "Nick keeps reading a bedtime story to his daughter despite the blackout.",
+      "solution": "Nick is blind. The bedtime stories Nick usually reads for his daughter are from a braille book, thus the blackout that night didn't stop him from reading the story to his daughter."
     },
     {
-      "title": "It didn't seem that serious",
+      "title": "Death from just a cold",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "Anthony couldn't have imagined his cold would be the cause of his death.",
-      "solution": "There was a gas leak at Anthony's house but since he had a cold, he could not smell it. He died when he started a fire, as he was cooking his dinner."
+      "description": "Mathew could never have imagined his cold would cause his life to end",
+      "solution": "Mathew forgot the gas on, thus his house began to fill with it. Since he had a cold, he couldn't smell the gas. Later when he started cooking, his house exploded from all the gas that had been leaking for hours."
     },
     {
-      "title": "Mortal shoes",
+      "title": "New pair of shoes",
       "tags": ["#death"],
       "difficulty": 4,
       "description": "A woman buys a new pair of shoes, goes to work, and dies.",
-      "solution": "The woman is the assistant to a circus knife-thrower, who stands in front of a target as knives are thrown around her. The new shoes have higher heels than she normally wears, causing the thrower to misjudge his aim."
+      "solution": "The woman is the assistant of a circus knife-thrower, and stands in front of a target as knives are thrown around her. The new shoes have higher heels than she normally wears, causing the thrower to misjudge his aim, thus killing her."
     },
     {
-      "title": "Jack and Judy are dead",
+      "title": "Bob and Sandra",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "Jack and Judy were lying on the floor dead. There was a puddle of water and broken glass on the floor. How did they die?",
-      "solution": "Jack and Judy were two goldfish that swam in a small aquarium placed on a shelf. One afternoon, a cat sneaked into the room through the window and hit the aquarium that fell off the shelf and broke against the ground."
+      "description": "Bob and Sandra were found lying dead on the floor. There was broken glass and a puddle of water on the floor next to them. How did they find their demise?",
+      "solution": "Bob and Sandra were goldfish in a small aquarium on top a shelf. One day, their owner forgot the windows open near that self, and when a strong gust of wind blew, it knocked the window pane onto the shelf, thus knocking the small aquarium down the floor."
     },
     {
-      "title": "An uncommon man",
+      "title": "11th Floor",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "A man lives on the 10th floor of a building. Every morning he takes the elevator to the ground floor to go to work. Upon returning from work he goes up always to floor 7th in the elevator. Then he goes upstairs the 3 remaining floors.",
-      "solution": "The man is very short so he has no problem to press the button on the ground floor but he does not reach the 10th floor button. The maximum he reaches is up to the 7th floor button."
+      "description": "A woman lives on the 11th floor of an apartment. Every morning she takes the elevator to go to the ground floor, on her way to work. When she eventually returns home, she takes the elevator to the 6th floor and goes up the stairs for the remaining 5 floors.",
+      "solution": "The woman is a dwarf, in the morning as she takes the elevator to go to work, she can easily press the ground floor button from the elevator's keypad, since that button is lower to the ground. On the other hand, when she returns from work, she can only reach up to the 6th button, thus having to go up the stairs the rest of the way up to her flat."
     },
     {
-      "title": "No light",
+      "title": "Don't turn off the lights",
       "tags": ["#classic","#suicide"],
       "difficulty": 3,
-      "description": "A man woke up at night feeling thirsty. Then he turned off the light everywhere and went to bed again. In the morning he woke up, looked out of the window and yelled. Soon after he committed suicide.",
-      "solution": "The man was caretaker. Accidentally he turned off the lighthouse and it caused some shipwrecks. When he woke up, he realized what he have done."
+      "description": "In the middle of the night a man woke up feeling thirsty. He drank some water and as he went back to sleep, he turned off all the lights. The next day as he woke up, he took a look outside of his window, yelled in dismay and later that day committed suicide.",
+      "solution": "The man was a lighthouse keeper. That night, when he turned all the lights off, he also accidentally turned the lighthouse lamp off, thus causing several shipwrecks that night, realizing what he has done, he committed suicide."
     },
     {
-      "title": "Death: delayed",
+      "title": "Saved by the airplane",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "Helen never thought that her decision to travel by plane would save her life.",
-      "solution": "A few days earlier Helen had been operated on. Before boarding the plane, she had to go through the metal detector, which kept going off, despite the fact that she had removed everything metal she had on. After an X-ray examination, it was discovered that the doctors had left a scalpel inside her body. If Helen had not discovered it in time, she would died for sure."
+      "description": "Samantha never thought that her decision to travel by plane would save her life.",
+      "solution": "A few days earlier Samantha had an operation. Before boarding the plane, she had to go through the metal detector, which kept going off, despite the fact that she had removed everything metal she had on her. After an X-ray examination, it was discovered that the doctors had left a scalpel inside her body. If Samantha had not discovered it in time, she would have died sooner or later from infection."
     },
     {
-      "title": "Drowned",
+      "title": "A hug can hurt?",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "After George tries to hug a person, he dies by drowning.",
-      "solution": "George was under the influence of alcohol and saw his reflection on a river. As he was intoxicated, he thought that it would be a good idea to give a hug to the \"stranger\". However this caused him to fall into the river and drown."
+      "description": "When John tried to hug someone, he died by drowning.",
+      "solution": "John was very drunk, as he was walking next to a river; he saw his reflection in the water. As he was intoxicated and couldn't think clearly, he went to hug that \"someone\" and subsequently fell in the river and died of drowning."
     },
     {
-      "title": "The Black Cat",
+      "title": "Black Cat",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A black cat is walking through the middle of a road where there is a broken street lamp. A man is driving his vehicle with headlights that do not work. Despite all of this, he is able to avoid harming the cat.",
-      "solution": "The man avoided the cat because it was daylight."
+      "description": "A black cat is walking through the middle of a road where the streetlights are busted. A man is driving his vehicle with broken headlights. Despite all of this, he is able to avoid harming the cat.",
+      "solution": "The man avoided the cat because it was broad daylight."
     },
     {
-      "title": "Fatal shot",
+      "title": "Hunting",
       "tags": ["#death","#gun"],
       "difficulty": 3,
-      "description": "A hunter aimed his gun carefully and fired. Seconds later, he realized his mistake. Minutes later, he was dead.",
-      "solution": "He hunted in snow-capped mountains. The shot provoked an avalanche, which covered the man. He died of strangulation."
+      "description": "A hunter aimed his gun at a deer and took the shot. After several seconds, he realized his mistake. Hours later, he was found dead.",
+      "solution": "The hunter went hunting in snow-capped mountains. The sound from shot caused an avalanche, which enveloped the hunter. He died of asphyxiation."
     },
     {
-      "title": "What an incredible sight!",
+      "title": "Through the window",
       "tags": ["#murder","#death"],
       "difficulty": 2,
-      "description": "A woman is looking through the window and sees a man with a knife. However, she does not have enough time to call the police before being murdered.",
-      "solution": "What the woman really saw was the reflection of the murderer, who was already inside her house, behind her."
+      "description": "A woman is looking through the window and sees a man with a gun. However, she does not have enough time to call the police before she is murdered.",
+      "solution": "The woman saw the reflection of the murderer who was behind her and already inside her house."
     },
     {
-      "title": "Radio silence",
+      "title": "Listening to the radio",
       "tags": ["#suicide","#death"],
       "difficulty": 5,
-      "description": "A man is driving his car while listening to the radio when suddenly the radio goes silent. He then decides to leave the road and throw himself off the top of a cliff.",
-      "solution": "The man was a radio broadcaster who had committed a murder. He had left a recorded radio broadcast live as an alibi. Realizing that the program he had prepared had stopped airing accidentally and that they would know that he was the culprit, he decided to end his life."
+      "description": "A woman is driving down a highway listening to the radio. Suddenly the radio station she was listening goes silent. As she passes by a bridge on the highway, she decides to throw herself off the bridge to end her life, why?",
+      "solution": "The woman in question was a radio broadcaster who had committed murder prior that day. She had left a pre-recorded segment to play on the radio broadcast as if it was a live segment planning to use that as her alibi. As soon as the radio broadcast went silent due to some technical error, she realised that she couldn't use this an alibi, thus deciding to end her life."
     },
     {
-      "title": "Time to sleep",
+      "title": "Explosions",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A woman is watching a movie. Suddenly she hears a lot of explosions and people screaming outside. Then there is silence. The woman turns off the TV and goes to sleep.",
-      "solution": "It was New Year's Eve. The woman waited until everyone had finished celebrating and then went to bed."
+      "description": "A woman is watching TV. Suddenly she hears a series of explosions and people screaming outside. After several minutes there is complete silence. The woman turns off the TV and goes to sleep.",
+      "solution": "It was New Year's Eve. The woman waited patiently until the end of the celebrations and eventually went to bed."
     },
     {
-      "title": "Don't open The Door",
+      "title": "The locked door",
       "tags": ["#family","#riddle"],
       "difficulty": 4,
-      "description": "A little girl was warned by her parents never to open the cellar door. If she did, she would see things that they did not want her to see. One day, while her parents were out, they accidentally left the cellar door unlocked. The girl opened the cellar door. What did she see?",
-      "solution": "When the girl opened the cellar door she saw the living room and a beautiful garden through its windows. She had never seen these before because her parents had kept her in the cellar all her life."
+      "description": "A little girl was warned by her parents never to open the cellar door. If she did, she would see things that they did not want her to see. One day, her parents left the house and accidentally forgot to lock the cellar door. The girl took that opportunity and opened the cellar door. What did she see?",
+      "solution": "When the girl opened the cellar door, she saw the rest of the house she was living under all this time. She had never been outside the cellar as her parents had kept her there all her life."
     },
     {
-      "title": "The birdwatcher",
+      "title": "Unexpected bird",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "An avid birdwatcher sees an unexpected bird. Soon he’s dead. How come?",
-      "solution": "He is a passenger in an airplane and sees the bird get sucked into an engine at 20,000 feet."
+      "description": "A man was watching outside a window. Out of nowhere he sees a bird flying. He then realizes that these would be his last moments alive?",
+      "solution": "The man was onboard of an airplane, as he was watching outside the airplane window, he saw a bird getting sucked inside the right jet engine, thus causing a malfunction that would eventually lead to the plane crashing."
     },
     {
-      "title": "The mysterious key",
+      "title": "Key tied to a cord",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "Every night before going to sleep, Lisa locks the door of her house and attaches the key to a string. Why?",
-      "solution": "Lisa was a sleepwalker. Some days before, she had left her house in the middle of the night without realizing. To prevent this happening again, she began tying the key with a piece of string to a bell each night. That way, if Lisa tried to leave the house, her husband would wake up and take her back to bed."
+      "description": "Every night before going to sleep, Natasha locks the door of her house and ties the key to a cord. Why?",
+      "solution": "Natasha is a sleepwalker. For years now she sleepwalks in the middle of the night. One night she accidentally reached the front door, unlocked it and went outside. To prevent that event for ever happening, her husband proposed to tie the key to a cord attached to a bell, so that whenever she takes the key while sleepwalking, her husband would wake up and take her back to bed."
     },
     {
-      "title": "Death at Sea",
+      "title": "Murder at Sea",
       "tags": ["#murder"],
       "difficulty": 5,
-      "description": "A man sitting on a park bench reads a newspaper article headlined \"Death at Sea\" and knows a murder has been committed.",
-      "solution": "The man is a travel agent. He had sold someone two tickets for an ocean voyage, one round-trip and one one-way. The last name of the man who bought the tickets is the same as the last name of the woman who \"fell\" overboard and drowned on the same voyage, which is the subject of the article he's reading.\n\nThis may have derived from a story done by Alfred Hitchcock, if the following Hitchcock quotation is accurate: \"If you take your wife on a sea voyage, buy her a round-trip ticket no matter what your plans may be.\""
+      "description": "A man was reading his morning newspaper as the headline \"Murdered at Sea\" piqued his interest. That moment he realizes who the culprit might be.",
+      "solution": "The man was a travel agent. He had sold someone two tickets for an ocean voyage, one was for a round-trip and the other was one-way. The last name of the man who bought the tickets is the same as the last name of the woman who was murdered on the same voyage."
     },
     {
-      "title": "A stranger in the car",
+      "title": "Out of gas",
       "tags": ["#death","#family"],
       "difficulty": 2,
-      "description": "A married couple was speeding into town when their sedan ran out of gas. The man went for help after making sure his wife closed the windows and locked the doors of the car. Upon his return, he found his wife dead and a stranger in the car. The windows were still closed, the doors were still locked, and no damage was done to the car.",
-      "solution": "The woman gave birth, and bled to death. Since the father has never seen the baby before, the kid can technically be called a stranger."
+      "description": "A married couple were on a road trip in their sedan. Right before they reached their destination the sedan run out of gas. The man, leaving his wife inside the car, closed the windows, locked the doors and exited the vehicle and went to get help. Upon returning, he found his wife lying dead inside the car and a stranger next to her. The doors and the windows were locked and closed, the car intact, what happened?",
+      "solution": "The woman had given birth, and subsequently bled to death. Since the father had never seen the baby before, it could technically be called a stranger."
     },
     {
-      "title": "There's light",
+      "title": "Don't look at the light!",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "Roger sees the light and he becomes paralyzed. Soon after that he dies.",
-      "solution": "Roger was a rabbit that escaped from the house where he lived. He was crossing the road at night when the lights of a car blinded him. The driver did not see him and ran him over."
+      "description": "Adam saw the light and became paralyzed. Several seconds later he died.",
+      "solution": "Adam was a rabbit. One fateful night, the owner forgot to lock his cage, and the rabbit escaped. As it was about to cross the road, a car blinded it and ran it over."
     },
     {
-      "title": "Lost",
+      "title": "Lost on a trip",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "Jack goes on a trip with his compass. After a long walk, he stops to eat a sandwich. He is not able to find his way back afterwards.",
-      "solution": "Jack was a scientist who worked near the North Pole. When he went walking, he walked towards the north and he stopped to eat his sandwich exactly at the North Pole. When he tried to return home, his compass was useless, since every direction pointed South."
+      "description": "Dimitri went on a trip carrying his compass. After a long hike, he stopped to have lunch. After that he wasn't able to find his way back. Why?",
+      "solution": "Dimitri was a researcher who worked at the North Pole. He went hiking towards the north and, without him realising it, he reached the Northernmost point, ate his lunch there and then tried to return back. The compass at that point could only point at one direction only, the South."
     },
     {
-      "title": "The Library",
+      "title": "Book of Desperation",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "A woman goes to the library, takes a book and cries out.",
-      "solution": "The woman was a writer and she had donated one of her books to the library. She had included a 50$ bill among the pages as a gift for the first person borrowing the book. After a year, she came back to the library, took the book and saw that the bill was still there. Realizing that no one had read her book she burst into tears."
+      "description": "A woman went to the local library, took a book from a bookshelf and cried out in desperation, why?",
+      "solution": "The woman was the writer of that particular book. She donated that book to the library last year. Before donating it, she placed a 50€ bill near the last chapter, as a \"thank you for reading\" for the first reader. Unfortunately, the bill was still there a year later. Realizing no one had read her book, she cried out of desperation."
     },
     {
       "title": "Prison break",
       "tags": ["#prison","#riddle"],
       "difficulty": 2,
-      "description": "Michael is in prison. One day, he has lunch, goes to prison courtyard for a while and finally visits the library. At dusk, out of the reach of the security cameras, he changes his clothes. He then goes through the door to leave the prison, without being caught.",
-      "solution": "Michael worked as a guard in the prison."
+      "description": "Daniel is in prison. One day, he had lunch, went to the prison courtyard for several hours and finally visited the library. At dusk, without the security cameras watching him, he changed his clothes. He then went through the front door left the prison, and didn't get caught. How?",
+      "solution": "Daniel was a prison guard, finished his shift and went home."
     },
     {
-      "title": "The punch",
+      "title": "Famous Drink",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "A man went into a party and drank some of the punch. He then left early. Everyone at the party who drunk the punch subsequently died of poisoning. Why did the man not die?",
-      "solution": "The poison from the punch came from the ice cubes. When the man drank the punch, the ice was fully frozen. Gradually, as the ice cubes melted the poison was released into the punch."
+      "description": "A woman was invited to a party where a very famous drink would be served. She drank that very famous drink and left. Everyone else who drank that very same drink , died of poisoning. How come the woman didn't die?",
+      "solution": "While she did drink the very same drink, the poison wasn't in the mixture of the drink but rather in the ice cubes of the drink. She didn't die because she drank it quickly, not letting the ice cubes melt, while the others at the party did not, thus the ice cubes melted and the poison was released in the drink."
     },
     {
-      "title": "Employee of the Month",
+      "title": "Heart attack at work",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "Francis dies of a heart attack at work. His colleagues are there when it happens. However, they do not call for help until Francis dies.",
-      "solution": "Francis was a theater actor and suffered a heart attack in the middle of a performance. However, he was playing someone who was having a heart attack. Therefore, both his colleagues and the audience simply thought that he was giving a really impressive performance."
+      "description": "Michael died of a heart attack while at work. His colleagues however did not call an ambulance despite being next to him and watching him fall to the ground. Eventually Michael died, why did they not call for an ambulance?",
+      "solution": "Michael was an actor playing his role. He was playing someone who was having a heart attack. Thus, his colleagues thought that he was just doing his act exceptionally, only to realize several minutes later that is wasn't simply an act."
     },
     {
-      "title": "An unexpected ending",
+      "title": "A special private session",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "An exotic dancer goes on a date for a private session with a man. In the room where they are, she takes her shirt and bra off. The man approaches, watches her breasts and smiles. Soon after, she dresses herself up, pays the man and leaves.",
-      "solution": "The woman had undergone a breast augmentation surgery a few days earlier and she had arranged an appointment with her private doctor to review the result of the operation. The man saw that everything was perfect and that he had done a great job. Finally the woman paid the bill and left the clinic."
+      "description": "An exotic model goes in a room for a private session with a man. In that session she takes off her shirt and bra, while the man watches. The man then approaches, watches her breasts and smiles. After that she dresses herself up, pays the man and leaves.",
+      "solution": "The woman had undergone a breast enlargement surgery several days earlier and she had arranged an appointment with her private doctor to review the results of the operation. The doctor checked that everything went according to plan and got paid by his customer."
     },
     {
-      "title": "The accident",
+      "title": "Wrong Turn",
       "tags": ["#car-accident"],
       "difficulty": 4,
-      "description": "A car driver causes an accident when he crashes into a bike, as he was making an unexpected turn at a crossroad. When the policemen arrive, another man gets arrested. The one who was driving is carried home.",
-      "solution": "The driver was receiving driving lessons and his instructor told him to make an incorrect turn at a crossroad, crashing into a bike. The policemen considered the driving instructor to be responsible for the accident so they arrested him and took the learner home."
+      "description": "A driver accidentally crashed into a motorcycle, as the car was making a questionable turn at an interchange. When the police arrived to the scene, the passenger got arrested instead of the driver, why?",
+      "solution": "The passenger was a driving instructor on a lesson with the driver. The instructor did not pay enough attention to the road and instructed the driver to make a turn, only to hit the motorcyclist. Thus, the police arresting the instructor but not the driver."
     },
     {
-      "title": "A woman shoe",
+      "title": "Safe Shoe",
       "tags": ["#riddle"],
-      "difficulty": 3,
-      "description": "Before going to bed, the woman hides her shoe in the safe. What for?",
-      "solution": "This woman works as a stewardess on an airplane. In the hotel before going to bed she puts her documents in the safe, and to not forget them in the morning, she puts one of her shoes along with the documents."
-    },
-    {
-      "title": "Chicken gun",
-      "tags": ["#riddle","#gun"],
       "difficulty": 4,
-      "description": "In the 1950s in America there was an invention of a chicken gun. What for?",
-      "solution": "A chicken gun is a large-diameter, compressed-air cannon used to fire dead chickens at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Whole, dead, standard-size chickens, as would be used for cooking, are thought to accurately simulate a large, live bird striking a plane in flight."
+      "description": "Each night before the woman goes to sleep, she hides her shoe in a safe, why?",
+      "solution": "The woman is an air hostess. Whenever she sleeps in a hotel (after finishing for the day) she places her documents in the safe. In order for her not to forget them she also puts inside one of her shoes so that when she wakes ups she has to open the safe."
     },
     {
-      "title": "Levitation",
+      "title": "Levitating Woman",
       "tags": ["#death","#suicide"],
       "difficulty": 2,
-      "description": "A man is found hanging in an otherwise empty locked room with a puddle of water under his feet.",
-      "solution": "He stood on a block of ice to hang himself."
+      "description": "A woman was found dead hanging from the ceiling in an empty, locked room with a puddle of water underneath her.",
+      "solution": "She stoop on top of a big ice cube to hang herself, after the ice cube melted, she left her last breath."
     },
     {
-      "title": "Private space",
+      "title": "Narcos",
       "tags": ["#riddle","#police"],
       "difficulty": 5,
-      "description": "The Venezuelan police made a few attempts to arrest a well-known bandit. They knew where he lived. From time to time they got the arrest warrant and approached his house. When they entered the house, he was locked in the bedroom. The police had nothing to do but to leave empty-handed.",
-      "solution": "His house was on the border between Venezuela and Colombia. Although the front door and half of the house were on the territory of Venezuela, the bedroom was located on the territory of Colombia. The Venezuelan police had no jurisdiction in Colombia, so the police couldn't arrest him while he was in the bedroom."
+      "description": "The Colombian police made several attempts to arrest a well-known drug cartel leader. They knew every move he made. Finally, after they issued an arrest warrant, they began to approach his house. Eventually when they entered the house, he was locked inside the room furthest back in the house. For some reason the police couldn't arrest him, why?",
+      "solution": "The drug lord has built his house in such a way that the front of his house would be inside the border of Colombia and the back of his house would be inside the border of Ecuador, thus the police could not arrest him, because they would break international law since Ecuador isn't in their jurisdiction."
     },
     {
-      "title": "Prick",
+      "title": "Cactus",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "A man walks through the desert, suddenly he sees a cactus and notices an empty sheet of paper on it. He lies down and dies.",
-      "solution": "It was his own sheet of paper, which he left when he wandered through the desert. When he saw it, he realized that he got lost forever."
+      "description": "A woman walks aimlessly in a desert; in the distance she notices a cactus with a small piece of paper stuck to it. When she moves closer to it, she realizes that nothing is written on the paper. She lies down and slowly dies.",
+      "solution": "That blank paper was hers, she put it there as a checkpoint to mark where she had already been. Unfortunately for her, she was going in circles and not making any progress in finding her way back."
     },
     {
-      "title": "Similar devices",
-      "tags": ["#riddle"],
-      "difficulty": 4,
-      "description": "Two devices are commonly used by people. They are created for the same purpose. But one of them has lots of details and another does not has any. What are these things?",
-      "solution": "One of these devices is hourglass. Another one is sundial.\n\nLittle hint for players: both devices are invented long time ago."
-    },
-    {
-      "title": "On a bus",
-      "tags": ["#riddle"],
-      "difficulty": 2,
-      "description": "When on a bus, Kate wanted to offer her seat to a woman who's just got on. But she was very embarrassed and refused. Why?",
-      "solution": "Little Kate was sitting in her dad's lap."
-    },
-    {
-      "title": "Happy death",
-      "tags": ["#death"],
-      "difficulty": 2,
-      "description": "Beulah died in the Appalachians, while Craig died at sea. Everyone was much happier with Craig's death. How come?",
-      "solution": "Beulah and Craig were hurricanes."
-    },
-    {
-      "title": "Gone with the wind",
+      "title": "Windy Night",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "If the wind hadn't blown so strongly that night, Angela would still be alive.",
-      "solution": "As it was windy, Angela decided to go to a field to fly her kite. At twilight, she could not see the nearby transmission tower. When her kite got tangled in the cables and she tried to untangle them, she was electrocuted."
+      "description": "Nicky would still be alive if it wasn't windy that night.",
+      "solution": "Nicky decided it was a good idea to fly her kite in the middle of the night despite the wind. At some point she lost control of it and the kite got tangled in a nearby transmission tower, thus electrocuting Nicky."
     },
     {
       "title": "The lost treasure",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "Jimmy hid a treasure but when he wanted to recover it, he was not able to.",
-      "solution": "Jimmy buried a treasure when he was 8 years old. He had written a note when he was younger with how many steps he would take to find his treasure. But now that he was grown up, his stride was much longer and he could never find his treasure."
+      "description": "George dug a hole and in it hid a treasure, unfortunately when he eventually wanted to recover it, he couldn't find it.",
+      "solution": "When George was a child, he hid that treasure and measured the distance with his own feet from a nearby landmark. Now that he went to recover it his feet grew bigger and the measurement he made as a child cannot add up."
     },
     {
-      "title": "Fire!",
+      "title": "Boiled in the Sea",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "Paul goes diving. How could he know he would be burnt to a crisp?",
-      "solution": "He was scuba diving when a firefighting plane landed nearby and filled its tanks with water, sucking him in. He ran out of air while the plane was in flight; then the water, with him in it, was dumped onto a burning forest."
+      "description": "Martha was in a diving expedition that day. How come they found her burned to a crisp?",
+      "solution": "Martha was indeed scuba diving that fateful day. As she went towards the surface, a firefighting plane refilled its water reserves, picking up Martha as well by accident. When eventually the plane went to extinguish the forest fires, both the water and Martha were thrown in the fire."
     },
     {
-      "title": "Not now...!",
-      "tags": ["#death","#suicide"],
-      "difficulty": 4,
-      "description": "A woman is at home, sad, and watching the street through her window. Soon after she jumps out of it. Just in that precise moment, she hears the telephone ringing and regrets jumping.",
-      "solution": "After a nuclear catastrophe, the woman thought that she was the only person alive and decided to put an end to her life. When the telephone rang she realized that she was not alone. But it was too late for her."
-    },
-    {
-      "title": "Unsolved crime",
+      "title": "Unsolved Murder",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "When Liz was about to find out who killed Mario, she fell asleep. When she woke up she realized that she could no longer find it out.",
-      "solution": "Liz was reading a novel on the beach. The main character, Mario, had been killed and she was about to find out who had committed the crime. Before she found it out, she fell asleep with the book lying in the sand. When she woke up she saw that the tide had risen and the book had been washed away."
+      "description": "Rick was about to find who was the murderer, but fell asleep. When he eventually woke up, he could no longer find who the murderer was.",
+      "solution": "Rick was reading a detective novel while sunbathing on the beach. As he was about to read who committed the murder, he fell asleep and left the book on the sand As the tides rose, they swept the book without him realising. When he woke up, his book was gone for good."
     },
     {
-      "title": "Feather",
+      "title": "Feather duster",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "A man lies dead next to a feather. How did he die?",
-      "solution": "The man was a sword swallower in a carnival side-show. While he was practicing, someone tickled his throat with the feather, causing him to gag.\n\nReal fact: twenty-nine deaths have been reported as a result of sword swallowing injuries since 1880."
+      "description": "There's a corpse next to a feather duster. How did it come to be there?",
+      "solution": "The corpse was a carnival sword swallower. During a practise session, someone tickled him with the duster as a prank, causing him to laugh and ruin his trick, causing his demise."
     },
     {
-      "title": "Deadly scissors",
+      "title": "Scissors of death",
       "tags": ["#hospital","#death"],
       "difficulty": 3,
-      "description": "A woman is found dead in a hospital. The murder weapon is a pair of scissors. However, the body has no cuts of wounds of any kind.",
-      "solution": "The woman's condition was critical, and the doctors had connected her to a device that kept her alive. The murderer simply cut the wires off that device with scissors to end her life."
+      "description": "An old man is found dead on a hospital bed. There are no injuries or cuts on his body. The police take in a pair of scissors as the murder weapon.",
+      "solution": "The man had just suffered heart failure and was kept alive through machinery. The murderer cut the machines wire with a pair of scissors thus causing the man's death indirectly."
     },
     {
-      "title": "The Arm of the Postal Service",
+      "title": "Hand delivered",
       "tags": ["#riddle"],
       "difficulty": 5,
-      "description": "One day a man received a parcel in the post. Carefully packed inside was a human arm. He examined it, repacked it and then sent it on to another man. The second man also carefully examined the arm before taking it to the woods and burying it. Why did they do this?",
-      "solution": "The three men had been stranded on a desert island. Desperate for food, they had agreed to amputate their left arms in order to eat them. They swore an oath that each would have his left arm cut off. One of them was a doctor and he cut the arms off his two companions. They were then rescued. But his oath was still binding so he later had to have his arm amputated and sent to his colleagues.\n\nThis is often told with a further twist whereby a doctor pays a tramp a large sum in order to amputate the tramp's arm which the doctor then sends to another man who inspects it etc. This variation can make for a long night of questioning!"
+      "description": "A man receives a package. Inside it he finds a human arm. Unfazed he repackages it and sends it to a friend of his. His friend receives it, looks at it carefully and then cuts it up and feeds it to his pigs. Why did any of this occur?",
+      "solution": "Three men survived a plane crash. When they run out of food, they made a pact they would cut of their left arms each day to feed themselves. However, they were rescued after 2 days so the third man didn't cut off his arm. Unwilling to break his promise, he cut off his arm later and sent it to his comrades to show them he did not forget their pact."
     },
     {
-      "title": "First in the class",
+      "title": "Perfect class",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A man, who was examining some school, noticed that any time a teacher was asking a question, lots of pupils were ready to answer. Moreover, every time the teacher was choosing another person and the answer was always right.",
-      "solution": "The teacher told pupils to raise up their hands no matter what question would be asked. But if they khew the answer, they should raise the right hand, otherwise - the left one. Therefore the teacher could choose among the pupils who knew the answer."
+      "description": "A local administrator was making the rounds at a school. While observing a class, he noticed that when the teacher asked a question, all the students raised their arms, but the student the teacher selected always knew the correct answer",
+      "solution": "The teacher instructed the students to raise their left arm if they didn't know the answer and their right if they did. Thus, the teacher could choose someone who knew the correct answer while also having an idea of how many kids didn't so she could help them catch up later."
     },
     {
-      "title": "Died of fright",
+      "title": "Frightened to death",
       "tags": ["#death"],
       "difficulty": 5,
-      "description": "A man woke up, lit a match and saw something that frightened him to death.",
-      "solution": "This man was a prisoner. He wanted to escape and asked the mortician to do something for him. When somebody in prison would die, the prisoner would hide in the coffin and would be buried along with the corpse outside the territory of prison. And after some time he would be released by this mortician.\n\nBut something went wrong. When the prisoner opened his eyes after the burial and lit a match, he saw the face of the mortician. He understood that he is doomed and died of fright."
+      "description": "A woman opened her eyes, lit a match saw nothing and died of fright.",
+      "solution": "The woman was a prisoner and had come up with a plan with the prison mortician to escape. When the next prisoner died, she would be put in the coffin with them and then when said coffin would be transported towards the graveyard, the mortician would open it and she’d escape. However, something went wrong and she was buried together with the corpse Thus when she woke up, she saw nothing, realised she was buried alive and died of fright."
     },
     {
-      "title": "The parrot",
+      "title": "The Myna",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A woman walks into a pet store to buy a parrot. The seller offers her one, telling her that it can repeat everything it hears. Some days later the woman - feeling cheated - goes back into the store to get her money back. However, she comes back home with the parrot and not her money.",
-      "solution": "The parrot was deaf. It could not repeat anything, since it could not hear anything. However, the seller did not return the money to the woman because he never lied to her."
+      "description": "A man walks goes to an exotic pet store to buy a myna bird. The owner sells her one, saying it can repeat everything it hears. However, the woman discovers the bird does no such thing. When she goes to return citing false advertising, she fails.",
+      "solution": "The Myna was deaf, so as it couldn't hear anything it couldn't repeat anything. Since he never technically lied, the owner refused to take the bird back."
     },
     {
-      "title": "The blackout",
+      "title": "No lights no life",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "A woman - at work - is going downstairs, when suddenly there is a blackout. In that very moment she realizes that her husband is about to die.",
-      "solution": "The woman worked as an electrician at a hospital and she knew that the emergency generators were broken. He husband had had a car crash and he was at that hospital, connected to a machine that kept him alive. When the blackout happened she knew that her husband couldn't be breathing by himself and therefore that he was dying."
+      "description": "A woman was going down the stairs while at work. Suddenly she was plunged into total darkness. At that moment she knew for certain her husband was dead.",
+      "solution": "The woman was an electrician at a hospital where the emergency power was malfunctioning. Coincidentally her husband was also at that hospital, connected to assisted living machinery as he had been in an accident earlier that day. The moment the woman realised there was a blackout since the lights went off, she knew her husband would die."
     },
     {
-      "title": "Splish, splash!",
+      "title": "Dead watch",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "Tim is sailing his boat when his watch falls overboard. He is a great diver. However, he does not manage to retrieve the watch.",
-      "solution": "Tim was sailing on the Dead Sea. Due to the high salt concentration, he couldn't dive deep enough to get his watch back."
+      "description": "Tim was on his boat when his watch fell in the water, and despite him being an excellent swimmer he could not retrieve it.",
+      "solution": "Tim was sailing on the dead sea, and couldn't swim due to its high salinity so he couldn't recover his watch."
     },
     {
-      "title": "The village idiot",
+      "title": "Half a euro is more than 10",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "Visitors to a scenic mountain village were often amused by the village idiot. When offered a choice between a shiny 50-cent piece and a crumpled $5 bill, he would always happily choose the half-dollar. The bill was worth ten times as much, so why did he never choose it?",
-      "solution": "The so-called village idiot was smart enough to realize that as long as he kept choosing a 50-cent piece, people would keep offering him the choice. If he took the $5 bill once, the stream of coins would stop rolling in."
+      "description": "people in a small mountain village often made fun of a local village idiot, who when given the choice between a 50-cent coin and a 10-euro bill, would always happily choose the 50-cent coin despite it being worth 20 times less. Why would he do that?",
+      "solution": "The so called “idiot” knew that the moment he took the bill, people would stop mockingly offering him the choice between the coin and the bill."
     },
     {
-      "title": "A mysterious call",
+      "title": "A silent call",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A man is lying awake in bed. He makes a phone call, says nothing, and goes to sleep.",
-      "solution": "He is in a hotel and is unable to sleep because the man in the adjacent room is snoring. He calls the snorer up (at this hotel, like many others, the phone numbers are based on the room number). The snorer wakes up and answers. The first man hangs up without saying anything and goes to sleep before the snorer starts snoring again."
+      "description": "A man is unable to sleep. He makes a phone call, says nothing, and then goes immediately to sleep.",
+      "solution": "The man is in a hotel room and the person in the next room is snoring so loud it can be heard through the walls. He calls the next room, thus waking the snorer, and proceeds to go to sleep as fast as he can mow that there's silence before the snorer can start snoring again."
     },
     {
-      "title": "A match",
+      "title": "The match of death",
       "tags": ["#death"],
       "difficulty": 5,
-      "description": "A naked man is lying dead in the middle of a desert with a match in his hand.\nAnother man is found dead nearby. Also naked, and lots of clothes are scattered around him, among other things. There is a match in his hand. How did he die?",
-      "solution": "He was with several others in a hot air balloon crossing the desert. The balloon was punctured and they began to lose altitude. They tossed all their non-essentials overboard, then their clothing and food, but were still going to crash in the middle of the desert. Finally, they drew matches to see who would jump over the side and save the others; this man lost."
+      "description": "There is a naked corpse in the desert with a match in his hand. Next to it there are many sets of clothes as well as other items like suitcases food etc. Much further stands a man, alive,, also naked, also with a match in his hand?",
+      "solution": "The men were flying a hot air balloon, when it was suddenly punctured and started losing altitude. They threw all they had including their clothes overboard, but the hot air balloon was still going down too fast. They then draw lots with matches to see who would jump, and the first man lost."
     },
     {
-      "title": "An unsolved robbery",
+      "title": "Three times the robbery",
       "tags": ["#police","#riddle"],
       "difficulty": 5,
-      "description": "A guy goes into a drugstore and leaves shortly after with the money from the cash register. The drugstore owner calls the Police Station and, some time later, a police officer recovers the money and takes the guy away. That evening the three people go to the police station to report a theft.",
-      "solution": "The guy was the drugstore owner's son. His car had been stolen and he had an important exam. He had been to the drugstore to ask his mother for some money so he could take a taxi. In addition to this, the mother called her husband - who was a police officer - and asked him to bring their son to the exam. He did, and since the son did not need the money any more, he gave it back to his father, who returned it to the mother. At the end of the day, the whole family reported the car theft."
+      "description": "A teen goes into a pharmacy and leaves with some money from the cash register. Later a policewoman finds him, takes the money back and tells the boy to get in her car. That night 3 people report a theft.",
+      "solution": "The teen was the pharmacy owner's son, and his bike had been stolen earlier that day, so he went to his father's business to borrow some money to take the bus. Since his father had no coins on him, he gave him some change from the cash register. After his son left, he remembered his wife, a police officer, would be patrolling the area, so he phoned her and asked her to take their son where he needed to go. She then found the boy on the way to the bus stop, where he gave her the money he no longer needed and got in her car so they could go to his destination."
     },
     {
-      "title": "The albatross",
+      "title": "The seagull",
       "tags": ["#classic","#suicide"],
       "difficulty": 5,
-      "description": "A man goes into a restaurant, orders albatross, eats one bite, and kills himself. Why?",
-      "solution": "The man was in a ship that was wrecked on a desert island. When there was no food left, another passenger brought what he said was albatross but was really part of the man's wife (who had died in the wreck). The man suspects something fishy, so when they finally return to civilization, he orders albatross , realizes that what he ate before was his wife, and kills himself.\n\n(there is also a version of the riddle with an abalone instead of an albatross)"
+      "description": "A sun burned middle aged man enters a restaurant. He orders seagull and after he tastes it, he goes and jumps off a bridge. Why?",
+      "solution": "He had recently been in a shipwreck on a deserted island, where a fellow survivor offered him some meat, promising it was from a seagull she had caught and not from the bodies of the passengers who didn't make it. Suspecting foul play, the man decided to try seagull after he was rescued to see if he had truly eaten seagull and not human meat. Knowing the true taste of seagull and unable to live with the idea he had eaten the flesh of another human being, he committed suicide."
     },
     {
-      "title": "Rich couple",
+      "title": "Millionaires",
       "tags": ["#riddle","#family"],
       "difficulty": 3,
-      "description": "A man and a woman got married. After the wedding they abandoned all their activities, that were bringing them money, and only had fun. As a result, in three years they became millionaires.",
-      "solution": "Before the wedding, they were billionaires. Therefore during these three years they spent a lot of money and as a result became millionaires."
+      "description": "A couple got married. After the wedding, they stopped working or investing and just started spending money hand over fist. In three years, they were millionaires.",
+      "solution": "Before the wedding, they used to be billionaires."
     },
     {
-      "title": "A premature death",
+      "title": "Dying prematurely",
       "tags": ["#death"],
       "difficulty": 5,
-      "description": "A man who was expecting to die in a few days dies sooner than he thought.",
-      "solution": "The man was really sick and he decided to donate his organs to a rich man. Since this rich man's son wanted to inherit his farther's fortune he poisoned the donor so that his organs became unable to work again in his father's body."
+      "description": "A man expected to die in a few months, dies in a few days. Why?",
+      "solution": "The man who was dying was an organ donor, and a person eligible to receive the organs was found. A family member of the later kills the organ donor sooner fearing her relative couldn't survive long enough to get the organs otherwise."
     },
     {
-      "title": "Taxi",
+      "title": "Taxi driver",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A woman asks a driver to take her home. The whole way she talks, too much. The taxi driver tells her: \"I'm sorry but I am deaf.\" The woman falls silent. But when she goes out of the taxi, she understands that the driver isn't deaf.",
-      "solution": "The taxi driver have heard and understood where her house was."
+      "description": "A woman enters a taxi and tells the driver where her house is so he can take her there. On the way she starts talking, but the driver cuts her off and tells her he is deaf. As they reach her home and she gets off, she realises the driver lied to her.",
+      "solution": "How could the driver be deaf if he heard her address?"
     },
     {
       "title": "Hearing aid",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A man was furious, when he realized that he can hear better without the hearing aid that he was using the last 20 years. He went to his doctor to complain but the specialist became even more furious than him.",
-      "solution": "The man was wearing the hearing aid on his healthy ear."
+      "description": " John forgot to wear his hearing day one day. Realising he could hear much better that way; he heads to his doctor ready to complain. Instead, his doctor ends up being angry with him. Why?",
+      "solution": "John had been putting the hearing aid in the wrong ear."
     },
     {
-      "title": "Try hard",
+      "title": "Sales demonstration",
       "tags": ["#death"],
       "difficulty": 3,
-      "description": "A salesman tries too hard to get a sale and as a result ends up dying.",
-      "solution": "The salesman sold bulletproof vests. One day, to prove the quality of his product to a customer, he put one of them on and insisted the client to shoot him. The client accepted but unfortunately he missed the shot and shot the salesman in the head."
+      "description": "A door to door salesman took pride in demonstrating his products. One day that led to his death.",
+      "solution": "The salesman sold bulletproof vests, and asked his customers to shoot him. Unfortunately, one day one of them missed and shot him in the head."
     },
     {
-      "title": "Detective found the killer",
+      "title": "Three suspects",
       "tags": ["#death","#gun"],
       "difficulty": 1,
-      "description": "A detective was walking down the corridor. Suddenly he heard a woman screaming, “Please, John, don’t kill me!” A shot rang. the detective burst into the room. In one corner lay a dead woman and a gun. In another corner stood a postman, a lawyer, and an accountant. The detective looked at them, approached the postman, and grabbed him: “I will arrest you for killing this woman.” It was really the postman who killed this woman, but how could the detective know it?",
-      "solution": "The postman was the only man. The lawyer and the accountant were women."
+      "description": "A detective was walking down the street. Suddenly he heard someone yelling, “Don't shoot me bob I beg you!” from a nearby store. The detective bust into the shop only to find a dead woman and a smoking gun. In the store stood a postman, a doctor, and an accountant. The detective took one look at them and immediately arrested the postman. He was correct, but why?",
+      "solution": "The post MAN was the only man."
     },
     {
-      "title": "A flat tire",
+      "title": "Four flat tires",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "Four college students were late for a lecture and explained it to the lecturer by having a flat tire. The smart lecturer quickly proved to the rest of the audience that the latecomers had lied. How?",
-      "solution": "The lecturer took all four latecomers to different rooms and asked each of them, on which of the car’s wheels the flat tire was. Of course, they gave different answers."
+      "description": "Four students were late for a lecture with their excuse being a flat tire. The professor quickly proved to the rest of the students that the latecomers had lied. How?",
+      "solution": "The professor asked them to leave the room. Then she told them to come back one by one and asked each which tire was flat. Naturally each had a different answer."
     },
     {
-      "title": "Noseless death",
+      "title": "A delayed death",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "While he was in the forest, a wild beast bit off his nose. But he died only 3 months later.",
-      "solution": "It was a snowman. A hare bit off its carrot nose, but it melted only in April."
+      "description": "While Charlie was in the forest, an animal bit off his nose. But he only died 3 months later.",
+      "solution": "Charlie was a snowman the local kids had built. A deer bit the carrot that was his nose, but Charlie “died” when he melted some months later."
     },
     {
-      "title": "Sad Sally",
+      "title": "And he never saw her again",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "Sally was sleeping when she was awoken by Jack. She walked to the door and found a letter. She read it and began to cry. She now knew that her boyfriend would never see her again. Why?",
-      "solution": "Sally's boyfriend had recently undgone eye surgery. Jack, her boyfriend's guide-dog, awoke her after the postman had delivered a letter. The letter was from the doctor's. The letter was in response to her boyfriends medical tests that confirmed the surgery was unsuccesful and he would now be fully blind."
+      "description": "Sally was woken up by the dog, who brought her a letter. After she read it, she started crying, now knowing her husband would never see her again.",
+      "solution": "Sally's husband was legally blind and had recently undergone an experimental surgery with the aim to improve his sight. His guide dog, who was left at home, brought sally the letter with the news that the surgery failed and her husband was now fully blind."
     },
     {
-      "title": "Silence",
+      "title": "Falling",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "Silence fell, and after a few moments she died.",
-      "solution": "A blind rope dancer shows high-altitude acrobatic stunts at high altitude. According to the script, she was to jump off the rope exactly at that moment when the musician stops playing.\n\nOn this day, the musician didn’t feel well and suddenly lost consciousness. The music stopped, the ropedancer jumped too early and plunge to death."
+      "description": "He fell unconscious and silence reigned and a few seconds after she died.",
+      "solution": "A rope dancer at a circus did a routine where she would perform tricks while blindfolded. She was to jump from the rope at a padded square after the music stopped. Unfortunately, that day the musician wasn't feeling well and suddenly lost consciousness, so when she inevitably jumped off the rope the rope dancer plunged to her death."
     },
     {
-      "title": "Death under an umbrella",
+      "title": "Death in the shade",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "A couple find a man's corpse on the beach. The corpse is under an umbrella and has a knife on his back. There are no signs of violence and no traces of blood. The autopsy reveals that the man died of natural causes.",
-      "solution": "The man, who had a tattoo of a knife on his back, died of a heart attack."
+      "description": "Some tourists find a corpse at the beach. The corpse was under an umbrella and had a knife on his back. However, there is no blood or signs of violence. The doctors conclude he died of natural causes.",
+      "solution": "The knife was a tattoo. The man died of heart failure."
     },
     {
-      "title": "An open door",
+      "title": "Door to your death",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "When Martin woke up that morning, he was surprised to see the door open. As soon as he crossed the threshold he got beheaded.",
-      "solution": "Martin was a canary that had been living in his cage for four months. Silvester - a cat - was waiting for his opportumity to catch Martin and eat him. When their owner left the cage door open by mistake Martin flew out of it and Silvester bit off his small head."
+      "description": "When Martin woke up in the morning, He was surprised to find his front door wide open. The moment he went outside, he was killed.",
+      "solution": "Martin was a canary, and his owner had forgotten his cage door open. The moment the little bird tried going outside, the cat who was waiting for exactly that day immediately ate him."
     },
     {
-      "title": "Colorblind",
+      "title": "Wrong colour",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "He died because he mixed up the colors.",
-      "solution": "In Thailand if some snake bites you, doctor has to identify the snake's species in order to choose the right antidote. The tourist usually can not identify it, so doctor asks him/her what color the snake was, and using this information specialist defines snake's species. The man was colorblind, therefore he received a wrong antidote."
+      "description": "Maria died because she got the colours wrong.",
+      "solution": "Maria was bitten by an exotic snake. When asked what colour the snake that bit her was by the doctor trying to find the correct antivenom, she said the wrong colour as she was colourblind. The doctor then administered the wrong antivenom causing Marias death."
     },
     {
       "title": "A fratricide",
       "tags": ["#murder","#death"],
       "difficulty": 2,
-      "description": "A man kills his brother in front of a crowd of people. However, no one reports him.",
-      "solution": "The man worked as executioner and his brother had been sentenced to death."
+      "description": "Jobe kills his brother in front of a crowd of people, yet no one reports him. How come?",
+      "solution": "Jobe was an executioner and his brother was to be executed for his crimes."
     },
     {
-      "title": "The best day of her life",
+      "title": "Audience's love",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "She thought that it was the best day of her life moments before she died.",
-      "solution": "At the end of a theater play, the lead actress appeared and the audience began to applaud. At that time there was a failure with the scenery and it started to collapse on stage. The public rose from their seats screaming, trying to warn the actress but she thought it was a standing ovation and she was crushed."
+      "description": "Jameel thought it was the best moment of his life. Seconds later he was killed.",
+      "solution": "At the end of the play the lead actor appeared to thank the audience. In the same time a cable snapped and parts of the scenery started to fall. The audience rose and yelled to warm Jameel, but he thought he was receiving a standing ovation."
     },
     {
-      "title": "A murderer",
+      "title": "Deadly clap",
       "tags": ["#riddle","#death"],
       "difficulty": 2,
-      "description": "Michael applauded, and everyone in the room (except him) died. What happened?",
-      "solution": "Michael was killing mosquitoes."
+      "description": "Bjork applauded, and everyone in the room but him was killed What happened?",
+      "solution": "Bjork was killing mosquitoes."
     },
     {
-      "title": "Ransom in the call-box",
+      "title": "Call box surprise",
       "tags": ["#riddle","#police"],
       "difficulty": 3,
-      "description": "The son of a rich man was kidnapped. The kidnapper wanted the rich man to bring and put the expensive diamond into the call-box located in a city park. Policemen surrounded this park, intending to catch the criminal. The father of the kidnapped child came to the call-box and did everything the kidnapper said to him, but the police could not prevent the cunning criminal from taking the diamond out of the call-box. They didn't grab the villian as well. What did he do?",
-      "solution": "This is a real history that happened in Taiwan. When the father came to the call-box, he found a postal pigeon in the cage. There was a note attached to him, in which it was said that the diamond should be put into a small pouch attached to the neck of the pigeon, and then he should let the pigeon out of the cage. When the rich man did this, the dove flew through the city to its dovecote, and the police could not follow it."
+      "description": "Criminals kidnapped a little boy and asked his rich father to put an expensive ring in a call box in a public park. The father obeyed, but also notified the police. Despite the police surrounding the park, they neither caught the criminal nor did they recover the ring. How?",
+      "solution": "When the father opened the call box, he found a pigeon with instructions to put the ring in a compartment on the bird's leg. Inevitably the police couldn't follow the pigeon. This is a real story that happened in Taiwan."
     },
     {
-      "title": "Seat belts",
+      "title": "Survivorship bias",
       "tags": ["#car-accident","#hospital"],
       "difficulty": 4,
-      "description": "In some city an amount of people injured in car accidents was very high. Then it was decided by administration to make the using of seat belts obligatory. People started to obey this rule. But the amount of crash accidents remained the same. Moreover, the number of injured people who addressed to the hospital even increased.",
-      "solution": "The adopted law decreased the number of accidents. A lot of people who would die without seat belt stayed alive but got injured and therefore they went to the hospital. So the number of patients increased."
+      "description": "The number of deaths as a result of car crashes was very high, so the county decided to make seat belts mandatory. But that only increased the number of accidents and injured people.",
+      "solution": "The adoption of seat belts decreased the number of deaths drastically. Naturally that meant that more people became injured instead of dying, and when they recovered had the chance to crash again instead of only once."
     },
     {
-      "title": "Dressed to die",
+      "title": "A dress to die for",
       "tags": ["#death"],
       "difficulty": 2,
       "description": "A woman finishes getting dressed and dies.",
-      "solution": "There was a very venomous spider in one of her shoes. When the woman put on her shoes, the spider bit her."
+      "solution": "There was a very venomous scorpion in her shoe. When she put on her shoes it stung her and she died."
     },
     {
-      "title": "Caught up",
+      "title": "Follow up",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "Tony ran out of the building, carrying two bags. Another man ran after him, shouting and waving knives.",
-      "solution": "Tony was shopping in the store, he spent a lot of money, so the shop workers decided to give him a gift: a set of kitchen knives. Tony was in a hurry so he ran to his car, forgetting about it. The worker noticed this and ran after Tony to give him the gift."
+      "description": " Byrne run out of a building while carrying a few bags. A different man ran after him, shouting and waving around knives.",
+      "solution": "Byrne was shopping, and was eligible for a gift: a set of kitchen knife. As he was in a hurry, he forgot it at the counter and the clerk ran after him to return it to him."
     },
     {
-      "title": "That trip",
+      "title": "Breath of relief",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A man comes breathless out of a house, closes the door and goes quickly down stairs. Then he walks two blocks to get to another house, enters and breathes relieved.",
-      "solution": "The man had just moved. He arrived to his new home with the last boxes and he breathed a sigh of relief because he had finished."
+      "description": "A man exits a house out of breath, closes the door and goes quickly down stairs. Then he walks a few blocks get to another house, goes in and breathes out relieved.",
+      "solution": "The man was carrying his stuff over to his new house after his move, and let out a sigh of relief when he finally moved the last few boxes."
     },
     {
       "title": "Jump",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A man jumped out of plane. And he survived.",
-      "solution": "The plane wasn't flying."
+      "description": "A man jumped out of plane and survived.",
+      "solution": "The plane wasn't flying at the time."
     },
     {
-      "title": "A thief",
+      "title": "Deadly wallet",
       "tags": ["#death"],
       "difficulty": 5,
-      "description": "A man stole a wallet. This caused his death. What happened?",
-      "solution": "Inside the wallet, there was a statement that this wallet’s owner opposes blood transfusion or organ transplantation for religious reasons. The thief got in an accident, and blood transfusion would have saved his life, but this wasn’t done because of the statement in the wallet."
+      "description": "The wallet Siobhan stole was her death?",
+      "solution": "The wallet belong to a person who was against resuscitation, and had the relevant card in it. Thus, when Siobhan got in an accident, the paramedics did not resuscitate her and she died."
     },
     {
-      "title": "A murder outdoors",
+      "title": "A random murder",
       "tags": ["#police","#riddle"],
       "difficulty": 4,
-      "description": "A man was walking down the street when he suddenly started to choke the woman walking by him. He was taken to the police station but soon after was released.",
-      "solution": "This woman was his wife. Some years ago she staged her death and her husband was found guilty. He already got out of jail and now can not be convicted for the same crime one more time."
+      "description": "A man suddenly starts chocking a woman in the middle of the street. He is arrested but soon after he is released.",
+      "solution": "The woman was his wife, who had some years earlier staged her death and pinned it on her husband. After he served his sentence, he killed her and couldn't be charged for it as he had already been charged for the same crime."
     },
     {
-      "title": "Exam",
+      "title": "Silent A",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "Students are taking an exam at a military academy. One of them chooses a ticket and goes to his seat to get prepared. After some minutes he goes to the professor, silently gives him the student's record-book and leaves the classroom. The student got the excellent.",
-      "solution": "It was a morse code exam. During exam, the professor was tapping the message saying that any student may come up to him and get the excellent."
+      "description": "Students are taking an exam. One of them takes his paper and goes to his seat. After a bit he goes to the professor, silently gives him the paper and leaves the classroom. He gets A+.",
+      "solution": "It was a morse code exam and the professor was sending the message “the first student who comes to my desk will get an A+” by tapping his pen on his desk."
     },
     {
-      "title": "Lucky me",
+      "title": "Luck of the draw",
       "tags": ["#suicide"],
       "difficulty": 2,
-      "description": "Peter wins the raffle and commits suicide.",
-      "solution": "A group of people were snowed in. They decided to do a raffle to decide who should die so the others could eat his/her corpse to stay alive. Peter's name was selected so he had to take his own life."
+      "description": "Peter wins the raffle. Minutes later he is dead.",
+      "solution": "Peter and a group of people were trapped in a log cabin after an avalanche. After their provisions run out, they held a raffle to see who will be eaten first and Peter lost the raffle."
     },
     {
-      "title": "Oh my car!",
+      "title": "Oh my windshield!",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A man smashes Jimmy's luxury car. Although Jimmy saw his car get smashed he made no attempt to stop the man.",
-      "solution": "Jimmy and the other man had a bet. It was agreed that the winner of the bet would smash the loser's car. Jimmy lost the bet."
+      "description": "A man Marks windshield. Although Mark was watching he made no attempt to stop him or call the police.",
+      "solution": "Mark and the other man had a bet, and the winner would smash the looser’s windshield. Obviously, Mark lost."
     },
     {
-      "title": "More cats",
+      "title": "Multiplying calico",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "A woman went on vacation and asked a friend to look after her cat. A week later, 8 cats were running around the apartment!",
-      "solution": "The next day this cat ran away, and the friend had to start looking for it. Since he did not know the cat very well, he had to keep all the similar cats that he had seen and wait for the friend who was supposed to identify the right pet."
+      "description": "A man goes to vacation and asks his friend to look after his cat. When he returns his friend greets him with 5 cats in tow.",
+      "solution": "While the friend was looking after the cat, it ran away. The friend, not knowing the cat well, gathered all the neighbouring cats of a similar colour and waited for the owner to return to tell him which is his."
     },
     {
-      "title": "The Hanged Man",
+      "title": "Hanging out",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "John was walking along the snow-covered field. When he came to a lonely tree, he saw the corpse of a man hanging on the tree. He died the last night from strangulation, but there were no traces around him, except John's ones.",
-      "solution": "The hanged man was a skydiver. His parachute was entangled and caught on branches of the tree."
+      "description": "Amara was walking along her property when she saw the corpse of a man dangling from a lone tree. He had died from strangulation but there were no footprints around except Amaras.",
+      "solution": "The hanged man was a skydiver. When he was falling, his parachute got caught in the tree and strangled him."
     },
     {
-      "title": "Pear inside a bottle",
+      "title": "Apple in a bottle",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "How do you get a full-grown pear inside a bottle of brandy?",
-      "solution": "It may be easier than putting a ship in a bottle but requires just as much patience. The pear isn’t put into the bottle; it grows inside it. When the fruit is small, the bottle is affixed to the tree branch, and the pear grows to maturity inside the bottle."
+      "description": "How do you put a full-grown apple inside a bottle?",
+      "solution": "The apple grows inside the bottle."
     },
     {
-      "title": "How to outplay Nick Faldo?",
+      "title": "How to outplay Tiger Woods?",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "One person decided to play golf with Nick Faldo, imposing one condition - he will choose the time and the place for a match. Nick agreed. As a result this person beat the champion.",
-      "solution": "This person was blind and he chose to play this match at moonless night. He could play golf perfectly well in dark. (It is true, blind people can play golf with the help of not blind people). Such conditions were unusual for Nick so he lost."
+      "description": "A man made a bet with Tiger Woods that he could beat him at golf, provided he chose the time and place. Woods agreed and subsequently lost.",
+      "solution": "The person was blind and chose a moonless night to play against Tiger Woods. Being unused to playing golf in the dark, Tiger woods lost."
     },
     {
-      "title": "Healthy people",
+      "title": "Healthy patients",
       "tags": ["#hospital"],
       "difficulty": 2,
-      "description": "A hospital director recently confirmed that many that many of people admitted to his hospital were not ill at all. They were perfectly healthy, yet were given hospital care and treatment.",
-      "solution": "The hospital was a maternity hospital and all those admitted were pregnant women."
+      "description": "When asked, a hospital director said most of his patients were perfectly healthy when admitted. How can that be?",
+      "solution": "The hospital is a maternity hospital and his patients are just pregnant."
     },
     {
       "title": "Greenland",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "Over 80 percent of Greenland is covered in ice. But why then it was called Greenland (a green land)?",
-      "solution": "The name Greenland comes from Scandinavian settlers. In the Norse sagas, it is said that Erik the Red was exiled from Iceland for murder. He set out in ships to find land rumoured to be to the northwest. After settling there, he named the land Grfnland (Greenland) to attract more people to settle there."
+      "description": "Most of Greenland is covered in ice. Why then is it called Greenland?",
+      "solution": "Erik the red, an ancient horseman explorer,  named it Greenland hopping to attract more settlers that way."
     },
     {
-      "title": "Want to print some cash?",
+      "title": "Cash printer?",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A man designed a device into which you can insert colored paper, and then get the ideal 100$. Experts can not distinguish them from the real ones. How does he do that, and why does he sell this device?",
-      "solution": "The man sells this device to the thief, convincing him that it prints counterfeit dollars that are indistinguishable from the real ones. He demonstrates the machine by inserting green paper into it. But green paper - this is actually real 100$, but richly painted in green. The machine simply removes green paint from them."
+      "description": "A man made a device where you put coloured paper in one end and the perfect hundred-dollar bid comes out the other end. Experts agree that those bills are indistinguishable from real ones. He sold this device for a million dollars. How did he manage to build and sell such a device?",
+      "solution": "The device removes recently added colour from paper. The man demonstrates this device by putting a painted real dollar bill in it. The result is indistinguishable from real money because it is real money. After they get fooled his clients cannot seek justice or recompense from the police. After all they were trying to purchase a counterfeiting machine."
     },
     {
-      "title": "Healthy arm",
+      "title": "Uneeded cast",
       "tags": ["#riddle"],
       "difficulty": 5,
-      "description": "Why did a healthy young girl put a gypsum on her arm, which was not damaged?",
-      "solution": "A young girl put a gypsum on the healthy arm before an oral french exam. She thought that the examiner would ask about her arm. And she came to the exam, having prepared for this particular question."
+      "description": "Why did a young girl put a cast around her unbroken arm?",
+      "solution": "She did so because she knew that in her school the teachers responsible for oral exams are less strict and put better grades than those for the written ones, so she put the cast on her arm hopping she would be allowed to take an oral exam."
     },
     {
-      "title": "Sacred death",
+      "title": "Killer communion",
       "tags": ["#death"],
       "difficulty": 2,
-      "description": "When the priest stopped talking, Bobby died.",
-      "solution": "Bobby was a little hamster who had come to the church along with Tom, his 9-year-old owner. When the priest was speaking in front of the believers, the little hamster escaped from the child's lap and went to the altar. When the priest finished speaking and headed towards his chair, he did not see Bobby and crushed him with his foot."
+      "description": "When the friar stopped preaching, Bobby died.",
+      "solution": "Bobby was a little hamster who escaped from his owner when the later took him with her to church. When the friar finished with his sermon, he headed towards the back to bring the wine and bread and stepped on little Bobby."
     },
     {
       "title": "The Train",
       "tags": ["#riddle"],
       "difficulty": 3,
-      "description": "The man was walking along the rails and suddenly he saw a train coming towards him. Then he ran like hell to meet the approaching train.",
-      "solution": "The man was in a tunnel and, in order to save his own life, he had to run along the rails to meet the train. When the tunnel was over, he was able to jump off the rails. And thanks to that, he remained alive."
+      "description": "A man was walking along the rails when he noticed a train coming towards him. He then started running towards it.",
+      "solution": "The man was in a tunnel and the nearest exit was towards the train. Knowing he wouldn't make it to the other exit, he started running towards the train, jumping off the rails at the nearest tunnel exit just in time."
     },
     {
-      "title": "The Flayer",
+      "title": "Mouse fraud",
       "tags": ["#riddle"],
       "difficulty": 4,
-      "description": "The man received the parcel in which he found a dead mouse. He reported this to the police, and the sender of this parcel was found guilty of fraud.",
-      "solution": "The sender was supposed to send the jewels to this man. He hoped that the mouse would gnaw a hole in the box and run away, and nobody could blame on him for the loss."
+      "description": " Chung receives a parcel with a dead mouse in it. He reports this to the police and the sender is found guilty of fraud.",
+      "solution": "The sender was supposed to send an expensive ring, but put in a mouse instead hoping it would chew a hole in the box and he could blame the post office."
     },
     {
       "title": "The Chase",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "A man is running, a crowd is running after him. The man is screaming to the crowd:\"You will never see the gold!\" and he starts shooting. People who observe all that are exulting.",
-      "solution": "It was the biathlon."
+      "description": "A man is running while a crowd is chasing him. The man suddenly screams to them: \"None of you will see the gold! \", picks up a rifle, and starts shooting. People observing them are all very excited.",
+      "solution": "It was a biathlon competition."
     },
     {
-      "title": "Another two bite the dust",
+      "title": "Winner or loser?",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "Two men are beating each other up and both of them suddenly fall to the floor.",
-      "solution": "The daughter of one of the boxers had been kidnapped and she would be killed if her father won the fight. At the end of the fight, the boxer's opponent fainted and the other boxer - in order not to win the match - threw himself to the floor."
+      "description": " Two men are fist fighting, when suddenly they both fall on the floor.",
+      "solution": "The men are boxers. The mafia kidnapped the daughter of the one favoured to win in order to blackmail him into throwing the match, but he had to make it realistic. So, when his opponent unexpectedly fainted near the end of the match, the first man threw himself to the floor in order to hopefully lose the match."
     },
     {
-      "title": "Witness to a kidnapping",
+      "title": "Unreliable reliable witness",
       "tags": ["#police"],
       "difficulty": 4,
-      "description": "A businessman witnesses a kidnapping. However, when he tells the police, they do not believe him.",
-      "solution": "After leaving the dentist, the witness was unable to speak properly, since he had numb mouth. The policemen thought that the man was drunk and did not believe a word he said."
+      "description": "A plumber witnesses a kidnapping of a small child, but when he immediately reports it to the police, they do not believe him.",
+      "solution": "The plumber had just left the dentist, who had put him under local anaesthesia. The police thought the man was drunk because his speech was slurred and didn't take him seriously."
     },
     {
-      "title": "Doctor, doctor",
+      "title": "Doctor my doctor",
       "tags": ["#suicide"],
       "difficulty": 5,
-      "description": "A man goes to the doctor to get the results of some previous tests. The results do not show up any health issues. However, he commits suicide shortly after the visit.",
-      "solution": "The patient knew that his wife was cheating on him, but he only knew the lover's name. His wife swore to him that this lover did not exist. However when the man left the doctor's, he saw the lover's name on the report. He realized his wife was cheating on him with the doctor and could not cope with it."
+      "description": "A woman goes to a doctor to get the results of some tests, which show no health issues. Regardless, she commits suicide soon after the visit.",
+      "solution": "The woman was suspecting her wife was cheating on her, but she only knew her wife’s lover name. Her wife insisted she was innocent, but when the woman left the doctor's, she saw that name on the test results. Now having confirmation her wife was cheating on her, she committed suicide."
     },
     {
-      "title": "Restless sleep",
+      "title": "The tell-tale tick",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "Paul comes home tired. He goes to his room and turns off the light to sleep. After a while, feeling uneasy, he turns on the light and looks around. He turns the light back off and tries to sleep again. After repeating this several times, he takes a look under his bed and finds a dead body.",
-      "solution": "A thief was stealing from Paul's home. When Paul arrived home, the thief hid under the bed. The tension became too much and the thief suffered a sudden heart attack Paul was unable to sleep due to the ticking of the thief's wristwatch."
+      "description": "Aaron returns home from his job tired, and goes to his bedroom to go to sleep. After some time, feeling uneasy and unable to sleep he turns on the lights and looks around. After seeing nothing out of the ordinary, he turns off the lights and tries to go to sleep. After doing this several times, he looks under the bed and discovers a corpse.",
+      "solution": "A thief had entered Aaron’s home, and when Aaron returned, he hid under the bed. After some time, the tension became too much for the thief and he had a heart attack. Paul couldn't sleep because of the ticking from the thief's wristwatch."
     }
   ],
   "all_tags":
@@ -728,7 +672,6 @@
     "#prison",
     "#bar",
     "#gun",
-    "#cheating",
     "#winter",
     "#summer",
     "#spring",
