@@ -1,5 +1,5 @@
 {
-  "version" : "7",
+  "version" : "8",
   "Stories": [
     {
       "title": "Flickering Lights",
@@ -405,7 +405,7 @@
       "tags": ["#death","#gun"],
       "difficulty": 1,
       "description": "A detective was walking down the street. Suddenly he heard someone yelling, “Don't shoot me bob I beg you!” from a nearby store. The detective bust into the shop only to find a dead woman and a smoking gun. In the store stood a postman, a doctor, and an accountant. The detective took one look at them and immediately arrested the postman. He was correct, but why?",
-      "solution": "The post MAN was the only man."
+      "solution": "The post *MAN* was the only man."
     },
     {
       "title": "Four flat tires",
