@@ -1,5 +1,5 @@
 {
-  "version" : "9",
+  "version" : "10",
   "Stories": [
     {
       "title": "Flickering Lights",
@@ -695,6 +695,7 @@
     "#hospital",
     "#family",
     "#riddle"
-  ]
+  ],
+  "delete":"test"
 }
 
