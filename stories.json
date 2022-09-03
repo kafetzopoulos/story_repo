@@ -1,5 +1,5 @@
 {
-  "version" : "10",
+  "version" : "11",
   "Stories": [
     {
       "title": "Flickering Lights",
@@ -334,7 +334,7 @@
       "title": "Half a euro is more than 10",
       "tags": ["#riddle"],
       "difficulty": 2,
-      "description": "people in a small mountain village often made fun of a local village idiot, who when given the choice between a 50-cent coin and a 10-euro bill, would always happily choose the 50-cent coin despite it being worth 20 times less. Why would he do that?",
+      "description": "People in a small mountain village often made fun of a local village idiot, who when given the choice between a 50-cent coin and a 10-euro bill, would always happily choose the 50-cent coin despite it being worth 20 times less. Why would he do that?",
       "solution": "The so called “idiot” knew that the moment he took the bill, people would stop mockingly offering him the choice between the coin and the bill."
     },
     {
