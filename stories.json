@@ -1,5 +1,5 @@
 {
-  "version" : "12",
+  "version" : "11",
   "Stories": [
     {
       "title": "Flickering Lights",
@@ -663,20 +663,6 @@
       "title": "The tell-tale tick",
       "tags": ["#death"],
       "difficulty": 4,
-      "description": "Aaron returns home from his job tired, and goes to his bedroom to go to sleep. After some time, feeling uneasy and unable to sleep he turns on the lights and looks around. After seeing nothing out of the ordinary, he turns off the lights and tries to go to sleep. After doing this several times, he looks under the bed and discovers a corpse.",
-      "solution": "A thief had entered Aaron’s home, and when Aaron returned, he hid under the bed. After some time, the tension became too much for the thief and he had a heart attack. Paul couldn't sleep because of the ticking from the thief's wristwatch."
-    },
-    {
-      "title": "test",
-      "tags": ["#death"],
-      "difficulty": 1,
-      "description": "Aaron returns home from his job tired, and goes to his bedroom to go to sleep. After some time, feeling uneasy and unable to sleep he turns on the lights and looks around. After seeing nothing out of the ordinary, he turns off the lights and tries to go to sleep. After doing this several times, he looks under the bed and discovers a corpse.",
-      "solution": "A thief had entered Aaron’s home, and when Aaron returned, he hid under the bed. After some time, the tension became too much for the thief and he had a heart attack. Paul couldn't sleep because of the ticking from the thief's wristwatch."
-    },
-    {
-      "title": "test 2",
-      "tags": ["#death", "#suicide"],
-      "difficulty": 1,
       "description": "Aaron returns home from his job tired, and goes to his bedroom to go to sleep. After some time, feeling uneasy and unable to sleep he turns on the lights and looks around. After seeing nothing out of the ordinary, he turns off the lights and tries to go to sleep. After doing this several times, he looks under the bed and discovers a corpse.",
       "solution": "A thief had entered Aaron’s home, and when Aaron returned, he hid under the bed. After some time, the tension became too much for the thief and he had a heart attack. Paul couldn't sleep because of the ticking from the thief's wristwatch."
     }
